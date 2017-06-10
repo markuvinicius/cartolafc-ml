@@ -1,802 +1,807 @@
-id,posicao,apelido,clube,posicao,ultima_pontuacao,status,FD,G,CA,FC,FS,DD,GS,PP,SG,CV,FT,A,PE,RB,DP,I,FF
-94105,0,Devid,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94154,1,Maycon,Corinthians,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94147,2,Lucas Ferreira,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94288,3,Lima,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94286,4,Perotti,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94144,5,Thallyson,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94336,6,Mateus Norton,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94207,7,Guilherme,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94102,8,Matheus,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94214,9,Léo Duarte,Flamengo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94509,10,Raphael Veiga,Palmeiras,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94445,11,Juninho,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94931,12,Lucas Fernandes,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94583,13,Pedro,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94765,14,Léo Principe,Corinthians,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94930,15,Lucas Paquetá,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94962,16,Lucão,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94966,17,Deijair ,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94968,18,Juninho Capixaba,Bahia,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94971,19,Luís Fernando,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94975,20,Marco Antônio,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94978,21,Kaynan,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94985,22,Dodô,Coritiba,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95022,23,Thalis ,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95023,24,Luis Guilherme,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95054,25,Júnior Ramos,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95058,26,Moraes,Flamengo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95127,27,Nicolas,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95126,28,Yago,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94885,29,Léo,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95180,30,Índio,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94138,31,Felipe Vizeu,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95315,32,Índio,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95332,33,Marcinho,São Paulo,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95543,34,Renan Gorne,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36540,35,Juan,Flamengo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95335,36,Matheus Jesus,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95483,37,Luiz Felipe,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95539,38,Fabrício,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95651,39,Filipinho,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95638,40,Marcelo,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94894,41,Capixaba,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94249,42,Lourency,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94854,43,César,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95798,44,Gustavo Bochecha,Botafogo,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95780,45,Zé Ricardo,Flamengo,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95837,46,Fabián Noguera,Santos,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95770,47,Vitinho,Palmeiras,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95660,48,Araruna,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95794,49,Nathan,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95820,50,Léo Santos,Corinthians,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95849,51,Felipe,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95843,52,Sander,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97444,53,Julio Rusch,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97445,54,Matheus Iacovelli,Palmeiras,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95662,55,Lucas Kal,São Paulo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97527,56,Matheus Alessandro,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97528,57,Frazan,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97520,58,Shaylon,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97502,59,Filigrana,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97532,60,Jean Pineda,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97536,61,Bryan,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97535,62,Hiago,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97538,63,Marcio,Coritiba,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97645,64,Thiago Couto,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95876,65,Douglas,Vasco,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97877,66,Patrick Correia,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36612,67,Zé Roberto,Palmeiras,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95936,68,Daniel Fuzato,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97653,69,Murilo,Cruzeiro,Zagueiro,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52950,70,Victor,Atlético-MG,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95978,71,Ty Sandows,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97546,72,Marco Túlio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97452,73,Marcos Calazans,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96055,74,Yan,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97680,75,Yan,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96089,76,Machado,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-55348,77,Luis Ricardo,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96349,78,Geovane,Coritiba,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96411,79,Cassiano,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97768,80,Reynaldo,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-95738,81,Trauco,Flamengo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96328,82,Matheus Oliveira,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-55594,83,Xuxa,Ponte Preta,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97769,84,Yuri,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97878,85,Jacy,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96591,86,Renan Lodi,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96340,87,Lima,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53731,88,Ferdinando,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96804,89,Vitor,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96464,90,Mauricio,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53669,91,Lins,Ponte Preta,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-56102,92,João Paulo,Coritiba,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60784,93,Rafael Carioca,Atlético-MG,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96832,94,Rodrigo Figueiredo,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96831,95,Carlinhos,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97856,96,Nonoca,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97879,97,Matheus Anjos,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60787,98,Willians,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97863,99,Jhemerson,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54395,100,Elias,Atlético-MG,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60802,101,Bruno Gallo,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60788,102,Marquinhos,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54797,103,Túlio de Melo,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96433,104,Ralph,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60819,105,Dedé,Cruzeiro,Zagueiro,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81923,106,Donatti,Flamengo,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96966,107,Arthur Gomes,Santos,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54424,108,Willians,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97228,109,Santarém,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96870,110,Emerson,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60853,111,Julio dos Santos,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97138,112,Dida,Grêmio,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99411,113,Alexsander,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-96965,114,Léo Lopes,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60859,115,Jael,Grêmio,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97771,116,Thiaguinho,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60969,117,Patric,Vitória,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98034,118,Maílson,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97315,119,Mantuan,Corinthians,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97352,120,Pachu,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98035,121,Caio,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97349,122,Daniel,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71937,123,Juninho,Bahia,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79973,124,Helton Leite,Botafogo,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98056,125,Luiz Felipe,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97443,126,Romercio,Coritiba,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61033,127,Rodriguinho,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61985,128,Airton,Botafogo,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61211,129,Carlos Cesar,Atlético-MG,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97880,130,Murillo,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97902,131,Rafael,Flamengo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62009,132,Camilo,Botafogo,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98221,133,Cedric,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98910,134,João Pedro,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62086,135,Pará,Flamengo,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-97341,136,Rogério Ceni,São Paulo,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98945,137,Derlan,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98517,138,Jean Lucas,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98315,139,Evanderson,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61188,140,Gilberto,São Paulo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62104,141,Robinho,Cruzeiro,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98333,142,Gabriel Batista,Flamengo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72007,143,Uillian Correia,Vitória,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98352,144,Bruno Guimarães,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98706,145,Pedrinho,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99021,146,Riuler,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98401,147,Patrick Luan,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98952,148,Léo Natel,São Paulo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98766,149,Emanuel,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62128,150,Walter,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62024,151,Edimar,São Paulo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99032,152,Lourenço,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99033,153,João Victor,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72037,154,Renan Fonseca,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98774,155,Flávio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98516,156,Loran ,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62047,157,Jean,Palmeiras,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72079,158,Bruno Cortez,Grêmio,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61149,159,Lucca,Ponte Preta,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98515,160,Lucas Silva,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62130,161,William Matheus,Coritiba,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98888,162,Cláudio Vitor,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62129,163,Wellington,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62997,164,João Paulo,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72150,165,Fernandinho,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62121,166,Vanderlei,Santos,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62974,167,Werley,Coritiba,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62069,168,Maikon Leite,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98874,169,Marcelo,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-98402,170,Wendel,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99255,171,Pedro Henryque,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99257,172,João Erick,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99283,173,Henrique,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99256,174,Alesandro,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99353,175,Lucas Índio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99356,176,Vinícius,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99034,177,Elias,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99388,178,Lucas Vinícius,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99424,179,Éder Militão,São Paulo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72168,180,João Paulo,Botafogo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99460,181,Caio,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99430,182,Diego,Botafogo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72297,183,Airton ,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63000,184,Victor Ramos,Chapecoense,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99535,185,Vinicius Junior,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72362,186,Rodrigo Lindoso,Botafogo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99258,187,Matheus Bezerra,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99588,188,Paulo Vitor,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99425,189,Felipe,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99474,190,Wenderson,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99550,191,Fernando,Botafogo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72376,192,Cléber,Santos,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72490,193,Fred,Vitória,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63058,194,Willian Farias,Vitória,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63110,195,Alan Ruschel,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99379,196,Borges,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63158,197,Moisés,Palmeiras,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63172,198,Paulão,Vasco,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72386,199,Hernane,Bahia,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99615,200,Bruno Cosendey,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99661,201,Igor Cássio,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63177,202,Júnior Viçosa,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63219,203,Luan,Atlético-MG,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63013,204,Marcos Rocha,Atlético-MG,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68698,205,Bruno Silva,Botafogo,Meia,0,Suspenso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99616,206,Felipe Saraiva,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72491,207,Bressan,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63128,208,Douglas,São Paulo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63422,209,Jucilei,São Paulo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99625,210,Conrado,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72565,211,Luan,Avaí,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99669,212,Elano,Santos,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68725,213,Diego Renan,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68690,214,André,Sport,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99629,215,Jadson,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99628,216,Esperon,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68693,217,Armero,Bahia,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72595,218,Mauricio Kozlinski,Avaí,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72605,219,Vitor Hugo,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72603,220,William Menezes,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68744,221,Emerson Sheik,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80124,222,Matheus Mancini,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68770,223,Camacho,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99670,224,Arthur,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72893,225,Eduardo da Silva,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72745,226,Escudero,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68773,227,Henrique Almeida,Coritiba,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68745,228,Vecchio,Santos,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68749,229,Everton Heleno,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80140,230,Nadson,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68758,231,Fernandinho,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72871,232,Cárdenas,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72879,233,Vladimir Hernández,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80129,234,Jadson,Ponte Preta,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84861,235,Alex Silva,Atlético-MG,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68784,236,Júnior Dutra,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73336,237,Rafael Martins,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80189,238,Lucas Fonseca,Bahia,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68807,239,Neto Berola,Coritiba,Atacante,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68822,240,Rafael Santos,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73340,241,Getterson,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80196,242,Yago Pikachu,Vasco,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80188,243,Marcos Junior,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84890,244,Euller ,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73281,245,Renê Júnior,Bahia,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68834,246,Rithely,Sport,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73421,247,Rafael Vaz,Flamengo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80944,248,Marlone,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72290,249,Jailson,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68884,250,Klever,Atlético-GO,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73800,251,Rodrigo Caio,São Paulo,Zagueiro,0,Suspenso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68808,252,Nino Paraíba,Ponte Preta,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73513,253,Maranhão,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73446,254,Éderson,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68979,255,Giovanni,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73384,256,Samuel Xavier,Sport,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68887,257,Gum,Fluminense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99461,258,Daniel,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68827,259,Renato Chaves,Fluminense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68893,260,André Lima,Vitória,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68987,261,João Vitor,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68895,262,Wellington Silva,Fluminense,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73974,263,Alison,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73869,264,Lennon,Cruzeiro,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69008,265,Neto,Chapecoense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73515,266,Gabriel,Flamengo,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68901,267,Rodrigo Pimpão,Botafogo,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80281,268,Cleberson,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68910,269,Anselmo,Sport,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73991,270,Walisson Maia,Coritiba,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69010,271,João Carlos,Ponte Preta,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80537,272,Michael,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73978,273,René,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74060,274,Luiz Antonio ,Chapecoense,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73876,275,Jomar,Vasco,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69018,276,Deivid,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68920,277,Dudu,Palmeiras,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69012,278,Santos,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80286,279,Matheus Vidotto,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69014,280,Manoel,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80313,281,Gilberto ,Vasco,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68925,282,Leonardo Silva,Atlético-MG,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68911,283,Diego Souza,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80337,284,Arthur ,Chapecoense,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68928,285,Rafael,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80318,286,Ezequiel ,Cruzeiro,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73517,287,Douglas Pires,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69036,288,Eduardo,Atlético-GO,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80363,289,Ariel Cabral,Cruzeiro,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73540,290,Rogério,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80370,291,Edson,Bahia,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68930,292,Kieza,Vitória,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73635,293,Rildo,Coritiba,Atacante,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68938,294,Giovanni Augusto,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68929,295,Thiago Ribeiro,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80373,296,Wanderson,Atlético-GO,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73649,297,Lucas Pratto,São Paulo,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73619,298,Wellington Nem,São Paulo,Atacante,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80583,299,Lucas Lima,Santos,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69040,300,Vladimir,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68932,301,Renan Ribeiro,São Paulo,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74213,302,Alejandro Guerra,Palmeiras,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69047,303,Paulo Roberto,Corinthians,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68950,304,Ronaldo Alves,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68954,305,Marquinhos Gabriel,Corinthians,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80853,306,Pedro Geromel,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68953,307,Leandro Damião,Flamengo,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73721,308,Marcos Vinícius,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68986,309,Gustavo Santos,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-80692,310,Luan,Palmeiras,Zagueiro,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69095,311,Montillo,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74061,312,Gatito Fernández,Botafogo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70666,313,Marllon,Ponte Preta,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70581,314,Fillipe Soutto,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70696,315,Fábio Carille,Corinthians,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81219,316,Thallyson,Vitória,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74271,317,Edigar Junio,Bahia,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81150,318,Mayke,Palmeiras,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70323,319,Jorginho,Bahia,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81241,320,Oswaldo Henríquez,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-75295,321,Paolo Guerrero,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69138,322,Pablo,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70916,323,Diogo Barbosa,Cruzeiro,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70742,324,Seijas,Chapecoense,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99254,325,Dayvid,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77500,326,Yago,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70934,327,Jackson,Bahia,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81898,328,Osman,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81682,329,Cazares,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81905,330,Henrique Dourado,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71066,331,Mancuello,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69160,332,Gastón Fernández,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82411,333,Cueva,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88070,334,Cafu,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70986,335,Léo Cittadini,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81903,336,Wellington Simião,Avaí,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84893,337,Henrique,Vasco,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82455,338,Zé Rafael ,Bahia,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71162,339,Vinícius,Bahia,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70929,340,Negueba,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71123,341,Thiago Mendes,São Paulo,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82469,342,Douglas Coutinho ,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69165,343,Pablo,Corinthians,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81770,344,Clayton,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84896,345,Lucas Otávio ,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82515,346,Reginaldo,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82627,347,Luiz Araújo,São Paulo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82634,348,Matheus Galdezani,Coritiba,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82567,349,Moisés,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74075,350,Wallace Oliveira,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82613,351,Alan Costa,Vitória,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82791,352,Toshi,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77529,353,Leandro Silva,Avaí,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82647,354,Régis,Bahia,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82754,355,André Castro,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82644,356,Léo Artur,Ponte Preta,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84761,357,Claudinei Oliveira,Avaí,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77551,358,Thomás,Sport,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77544,359,Jorginho,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69177,360,Léo,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82943,361,Matheus Ribeiro,Santos,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82787,362,Joel,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71227,363,Maicon,São Paulo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82817,364,Tomas Bastos,Coritiba,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81798,365,Rossi,Chapecoense,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81845,366,Alisson,Cruzeiro,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69705,367,Nikão,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73992,368,Rodinei,Flamengo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69249,369,Martín Silva,Vasco,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-69282,370,Lucas Barrios,Grêmio,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83004,371,Otero,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77959,372,Copete,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83263,373,Yuri,Bahia,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83048,374,Rafael Thyere,Grêmio,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70046,375,Victor Ferraz,Santos,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77556,376,Bruno Brígido,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70009,377,Romulo,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77967,378,Mena,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70132,379,Alan Santos,Coritiba,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70058,380,Tiago Real,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78086,381,César,Flamengo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78117,382,Everaldo,Atlético-GO,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74083,383,Adryan ,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70116,384,Fellipe Bastos,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78077,385,Madson,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78371,386,Miller Bolaños,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81223,387,Erazo,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70173,388,Ederson,Flamengo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78248,389,Gustavo Henrique,Santos,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78407,390,Douglas Grolli,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-77777,391,João Schmidt ,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74140,392,Élber,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74081,393,Guilherme Costa,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78497,394,Arnaldo,Botafogo,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-70222,395,Sidão,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83772,396,Neilton,Vitória,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-82463,397,Otávio ,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71549,398,Kelvin,Vasco,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83433,399,Patrick,Sport,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78584,400,Douglas Friedrich,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78605,401,Gabriel,Corinthians,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78548,402,Jean Mota,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78445,403,Renê,Flamengo,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83869,404,Diego Tavares,Avaí,Lateral,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83786,405,Neris,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71479,406,Lucho González,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78632,407,Bryan,Cruzeiro,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78478,408,Willian Arão,Flamengo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78839,409,Gabriel Gasparotto,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83791,410,Diego Jardel,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78715,411,Ramiro,Grêmio,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83817,412,Clayson,Corinthians,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84382,413,Danilo Barcelos,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84313,414,Feijão,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78968,415,Leandro Pereira,Sport,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78850,416,Reinaldo,Chapecoense,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78464,417,Fábio Braga,Ponte Preta,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83683,418,Andrei Girotto,Chapecoense,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84530,419,Maxi Rodríguez,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84558,420,Lucas Romero,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84554,421,Lucão,São Paulo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83615,422,Thiago Martins,Palmeiras,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-83522,423,Fagner Alemão,Avaí,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84585,424,Allione,Bahia,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78897,425,Naldo,Ponte Preta,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78578,426,Paulinho,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78495,427,Marcos,Atlético-GO,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84917,428,Jeferson,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71572,429,Gabriel,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84691,430,Judson,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78991,431,Moisés Ribeiro,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84703,432,Niltinho,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71631,433,Weverton,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85069,434,Renan Paulino,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71709,435,Cuéllar,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71571,436,Fernando Miguel,Vitória,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79887,437,Fabiano,Palmeiras,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85083,438,Vinicius Silvestre,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84718,439,Denilson,Avaí,Atacante,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78856,440,Marcão Silva,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71704,441,Manga Escobar,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71724,442,Agenor,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78994,443,Eduardo Henrique,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88539,444,João Vitor ,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79892,445,Nenén,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71719,446,Elton,Ponte Preta,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84847,447,Luan Peres ,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88651,448,Vinícius Tanque,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85149,449,Ronaldo,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89150,450,Jean,Vasco,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85211,451,Thalles,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71892,452,Wellington Silva,Bahia,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84851,453,Lucas Cândido,Atlético-MG,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88667,454,Igor,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-78855,455,Thiago Santos,Palmeiras,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79035,456,Luiz Felipe,Santos,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79041,457,Thomaz,São Paulo,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85121,458,Robert ,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84855,459,Raul Prata,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71818,460,Bruno Grassi,Grêmio,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89156,461,Nathan,Chapecoense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79066,462,Alex Muralha,Flamengo,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71920,463,Michel ,Grêmio,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79193,464,Abuda,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79334,465,Ricardo Silva,Atlético-GO,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79578,466,Sassá,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79553,467,Mansur,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84927,468,Dodô,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79042,469,Tiago ,Bahia,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79701,470,Lucas Silva,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84993,471,Fabrício Baiano,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84926,472,Yago,Atlético-MG,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85040,473,Gabriel Xavier,Vitória,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79702,474,Antônio Carlos ,Palmeiras,Zagueiro,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89190,475,Judivan ,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85241,476,Yerry Mina,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89227,477,Balbino,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85300,478,Berrío ,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85425,479,João Paulo,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91917,480,Silva,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85004,481,Marcos Felipe ,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89273,482,João Pedro ,Chapecoense,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91664,483,Adryelson,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89253,484,Andreazzi,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85418,485,Uilson,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91260,486,Lucas Perri,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85423,487,Valdívia,Atlético-MG,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-79437,488,Roger Machado ,Atlético-MG,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91714,489,Marciel,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89285,490,Matheus Sales,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91715,491,Matheus Cassini,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91687,492,João Pedro,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85591,493,Artur,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91264,494,Matheus Savio,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85626,495,Léo,Fluminense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91808,496,Caíque França,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85629,497,Daniel,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85586,498,Jonas,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89341,499,Nicolas Careca,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91388,500,Rodrigo Ramos,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91815,501,Nogueira,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91359,502,Bruno Bispo,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86143,503,Wanderson,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91866,504,Zé Ivaldo,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91519,505,Kazim,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89342,506,Caju,Santos,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89898,507,Róger Guedes,Palmeiras,Atacante,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93787,508,Andrey,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91842,509,Breno,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91973,510,Lucas Marques,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89637,511,Thiago Maia,Santos,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-85931,512,Hyoran,Palmeiras,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91972,513,João Paulo,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92078,514,Wallace,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89492,515,Saulo,Botafogo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91318,516,João Paulo Sanches,Atlético-GO,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86120,517,Borja,Palmeiras,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92057,518,Gabriel Félix,Vasco,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89343,519,Júnior Tavares,São Paulo,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89493,520,Igor Rabello,Botafogo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92630,521,Claudinho,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86740,522,João Lucas,Ponte Preta,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89693,523,Leonan,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86757,524,Everton,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-84848,525,Erik,Palmeiras,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92662,526,Denilson,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93108,527,Mateus Vital,Vasco,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86760,528,Lucas Macanhan,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92614,529,Rafaelson,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93551,530,Igor,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89695,531,Iury,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92981,532,Ronaldo,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93146,533,Yan,Palmeiras,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89885,534,Leandrinho,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86759,535,Luan,Grêmio,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89924,536,Bruno Ramires,Vitória,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93151,537,Thiago Santos,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93153,538,Pachequinho,Coritiba,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89676,539,Nickson,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93746,540,Lenis,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86764,541,Sidcley,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93282,542,Fábio,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92081,543,Richarlison ,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89815,544,Gustavo Ferrareis,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92085,545,Giovanny ,Atlético-PR,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93785,546,Alan Cardoso,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86323,547,Walterson,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93369,548,Rodrigo Becão,Bahia,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89696,549,Romulo,Avaí,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93368,550,Lucas Veríssimo,Santos,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92084,551,Mário,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86410,552,Victor Luis,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92128,553,Luis Henrique,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86765,554,Bruno Mota,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93378,555,Augusto,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89871,556,Pisculichi,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86411,557,Breno Lopes,Atlético-GO,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92180,558,Jair Ventura,Botafogo,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86776,559,Jordi,Vasco,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92182,560,Juninho,Palmeiras,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86485,561,Keno,Palmeiras,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89694,562,James Dean,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89839,563,Andres Chavez,São Paulo,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89930,564,Andrigo,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86766,565,Matheus Rossetto,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86227,566,Morato,São Paulo,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86797,567,Raniel,Cruzeiro,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86932,568,Gustavo,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92191,569,Léo Jabá,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90031,570,Mendoza,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86486,571,Milton Mendes,Vasco,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93788,572,Evander,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93414,573,Joel Carli,Botafogo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93789,574,Caio Monteiro,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86783,575,Henrique Gelain,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86861,576,Vinicius,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90061,577,Bruno Pacheco,Atlético-GO,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86863,578,Luiz Otávio ,Chapecoense,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37281,579,Mano Menezes,Cruzeiro,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92193,580,Ravanelli,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86508,581,Jandrei,Chapecoense,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86935,582,Rodrigo,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94003,583,Scalon,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90285,584,Bruno Henrique,Santos,Atacante,0,Suspenso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86859,585,José Welison,Vitória,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94004,586,Andrei Alba,Chapecoense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93797,587,Marcinho,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-89976,588,Geferson,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93846,589,Rafael Fachin,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93882,590,Cleiton,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86970,591,Eduardo Gabriel,Atlético-GO,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93869,592,Lucas França,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86874,593,Capa,Avaí,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94045,594,Diego Gomes,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86974,595,Caio César,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38508,596,Eder Luis,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86973,597,Léo Gomes,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-93986,598,Salazar,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86972,599,Emerson Santos,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90399,600,Fernandes,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94044,601,John Victor,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87008,602,Léo,Grêmio,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-99035,603,Pedro Vitor,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90366,604,Luiz Fernando ,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90406,605,Crysan,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90444,606,Moisés,Corinthians,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90302,607,Pedro Rocha,Grêmio,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86519,608,Everton Felipe,Sport,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90309,609,David,Vitória,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37607,610,Michel Bastos,Palmeiras,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92207,611,Caíque,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37604,612,Paulo André,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86686,613,Tchê Tchê,Palmeiras,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92438,614,Matheus Phillipe,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37623,615,Rafael Marques,Vasco,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92497,616,Douglas,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38523,617,Edílson,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92501,618,Lucas Lovat,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90535,619,Alex,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90290,620,Jailson,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37306,621,Gilson Kleina,Ponte Preta,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90933,622,Jean,Bahia,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37657,623,Edu Dracena,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90532,624,Arthur,Grêmio,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90303,625,Lincoln,Grêmio,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37645,626,Marcelo Mattos,Vasco,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90531,627,Raul,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37656,628,Fábio,Cruzeiro,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37662,629,Jonathan,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37608,630,Cristian,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90566,631,Rafael Longuine,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91001,632,Evandro,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-86713,633,Jonathan,Atlético-GO,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37646,634,Betão,Avaí,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90634,635,Lucas Mineiro,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37705,636,Juan,Avaí,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90569,637,Yuri,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37674,638,Wagner,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90587,639,Cascardo,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37644,640,Rodrigo,Ponte Preta,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-92574,641,Kaio,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90651,642,Rodrigão,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91101,643,Ronaldo,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37663,644,Julio Cesar,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37688,645,Cícero,São Paulo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37673,646,Alecsandro,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90715,647,Luiz Fernando ,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38140,648,Fernando Prass,Palmeiras,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37718,649,Arouca,Palmeiras,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38530,650,Cleiton Xavier,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91003,651,Alison,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91094,652,Ábila,Cruzeiro,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37701,653,Léo Moura,Grêmio,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37694,654,Henrique,Cruzeiro,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37652,655,Carlos Alberto,Atlético-PR,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90843,656,Elias,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37851,657,Maicosuel,São Paulo,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90768,658,Fabrício Bruno,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90892,659,Wallace,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-90899,660,Lucas Fernandes,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37655,661,Rafael Moura,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91102,662,Flávio,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37798,663,Rafael Sobis,Cruzeiro,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87028,664,Beto da Silva,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37792,665,Edinho,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91156,666,Jesiel,Atlético-MG,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37840,667,Gustavo,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87350,668,Buffarini,São Paulo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87098,669,Matheus Peixoto,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87158,670,Cícero,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87211,671,Eduardo Baptista,Atlético-PR,Técnico,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38001,672,Anderson,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91194,673,Thiago,Flamengo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37770,674,Marcelo Grohe,Grêmio,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50439,675,Vilson,Corinthians,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38928,676,Dudu Cearense,Botafogo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91201,677,Pepê,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87192,678,Zeca,Santos,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38738,679,Douglas,Grêmio,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38632,680,Matheus Ferraz,Sport,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38062,681,Lugano,São Paulo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38150,682,Marquinhos,Avaí,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38957,683,Rafael Marques,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38021,684,Wendel,Ponte Preta,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91203,685,Éder ,Bahia,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37919,686,Luis Fabiano,Vasco,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38748,687,Maicon,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38768,688,Andrezinho,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87228,689,Guilherme Arana,Corinthians,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87225,690,Pedro Henrique,Corinthians,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37984,691,Aranha,Ponte Preta,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-91204,692,Warleson,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38067,693,Danilo,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38156,694,Artur Moraes,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38162,695,Fred,Atlético-MG,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87393,696,Gabriel,Atlético-MG,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87267,697,Marcão,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87342,698,Kannemann,Grêmio,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38545,699,Felipe Melo,Palmeiras,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87398,700,Rodrigão,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38852,701,Anderson,Coritiba,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38100,702,Durval,Sport,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38909,703,Diego,Flamengo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39152,704,Jonas,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38109,705,Jefferson,Botafogo,Goleiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38913,706,Nenê,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38910,707,Ricardo Oliveira,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38138,708,Jô,Corinthians,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87437,709,Caíque Sá,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38908,710,Renato,Santos,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39572,711,Renato,Fluminense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87743,712,Léo Santos,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87486,713,Matheus Reis,Bahia,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87742,714,Neto Moura,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87470,715,Thaciano,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38225,716,Muriqui,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50294,717,Guilherme,Atlético-PR,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51772,718,Éverton Ribeiro,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87552,719,Vitor Bueno,Santos,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87833,720,Luis Caicedo,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42500,721,Fagner,Corinthians,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51792,722,Kanu,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50645,723,Eduardo,Bahia,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38229,724,Fábio Santos,Atlético-MG,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87859,725,Zeballos,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51042,726,Apodi,Chapecoense,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39850,727,Vagner Mancini,Chapecoense,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50856,728,Henrique,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38196,729,Maicon,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-49673,730,Júlio César,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38400,731,Vinícius Pacheco,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40179,732,Kleber,Coritiba,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38421,733,Rafinha,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87863,734,Arrascaeta,Cruzeiro,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40006,735,Abel Braga,Fluminense,Técnico,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38230,736,Grafite,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87864,737,Felipe Gedoz ,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38431,738,Diego Cavalieri,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38425,739,Fábio Ferreira,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51299,740,Emerson Silva,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51175,741,Denis,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38394,742,Thiago Heleno,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38440,743,Pierre,Fluminense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41218,744,Magrão,Sport,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41327,745,Vanderlei Luxemburgo,Sport,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51319,746,Renato Cajá,Ponte Preta,Meia,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51413,747,Walter,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87877,748,Sornoza,Fluminense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51318,749,Leandro Donizete,Santos,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51415,750,Roger Carvalho,Atlético-GO,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87887,751,Balbuena,Corinthians,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-49674,752,Fabrício,Cruzeiro,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38246,753,Robinho,Atlético-MG,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51705,754,Bruno Rodrigo,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50284,755,Wilson,Coritiba,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50301,756,Everton,Flamengo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51905,757,Leandro Salino,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87946,758,Todinho,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41363,759,Alexandre Gallo,Vitória,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50307,760,Adilson,Atlético-MG,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50317,761,David Braz,Santos,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87999,762,Gustavo Scarpa,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52674,763,Gilson,Botafogo,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71927,764,Diego Rosa,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41929,765,Renato Gaúcho,Grêmio,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50324,766,Hudson,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50348,767,Conca,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50398,768,Paulo Henrique,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50328,769,Marcelo Oliveira,Grêmio,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50362,770,Lucas,Fluminense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-87874,771,Orejuela,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50407,772,Marquinho,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50402,773,Kayke,Santos,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51700,774,Thiago Carleto,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50421,775,Wesley,São Paulo,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50408,776,Breno,Vasco,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50427,777,Kadu,Ponte Preta,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42140,778,Felipe Santana,Atlético-MG,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42145,779,Egídio,Palmeiras,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42116,780,Willian,Palmeiras,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-94067,781,Matheus Fernandes,Botafogo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38277,782,Thiago Neves,Cruzeiro,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42222,783,Osvaldo,Sport,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88225,784,Daniel Guedes ,Santos,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42234,785,Cássio,Corinthians,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42232,786,Amaral,Chapecoense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38279,787,Wellington Paulista,Chapecoense,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88323,788,Ángel Romero,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88136,789,Ivan,Ponte Preta,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88417,790,Iago,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38311,791,Márcio Araújo,Flamengo,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42330,792,Felipe Garcia,Atlético-GO,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38287,793,Roger,Botafogo,Atacante,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38315,794,Jadson,Corinthians,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42499,795,Bruno,São Paulo,Lateral,0,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42213,796,Fernando Bob,Ponte Preta,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50459,797,Léo,Cruzeiro,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52253,798,Réver,Flamengo,Zagueiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-88030,799,Warian Santos ,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42411,800,Cuca,Palmeiras,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+id,posicao,apelido,clube,posicao,ultima_pontuacao,status,FD,G,CA,FC,FS,DD,GS,PP,SG,CV,FT,A,PE,RB,DP,I,FF,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12
+37607,0,Michel Bastos,Palmeiras,Meia,2.3,Dúvida,0,4,1,0,1,0,0,5,1,0,0,0,0,0,1,20,2,0,3.8,-1.1,-0.7,2.3,,,,,,,
+37604,1,Paulo André,Atlético-PR,Zagueiro,0,Provável,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,8,4,0,-0.1,4.2,-0.4,0,,,,,,,
+38852,2,Anderson,Coritiba,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,-0.1,0,0,0,0,,,,,,,
+37306,3,Gilson Kleina,Ponte Preta,Técnico,0.97,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.75,2.89,4.11,6.42,0.97,,,,,,,
+37281,4,Mano Menezes,Cruzeiro,Técnico,1.35,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.4,3.43,4.95,0.65,1.35,,,,,,,
+37608,5,Cristian,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38748,6,Maicon,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,,,,,,
+36540,7,Juan,Flamengo,Zagueiro,2.6,Provável,0,2,0,0,2,0,1,4,2,0,0,0,0,0,2,2,1,0,0,0,7.5,2.6,,,,,,,
+38908,8,Renato,Santos,Meia,2.1,Provável,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,7,-0.1,0,2.6,0.5,2.1,,,,,,,
+38909,9,Diego,Flamengo,Meia,3.1,Provável,0,1,1,0,1,0,0,2,0,0,0,0,0,0,1,6,4,0,0,0,1.2,3.1,,,,,,,
+36612,10,Zé Roberto,Palmeiras,Lateral,0,Nulo,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,2,0,5.1,0,0,0,0,,,,,,,
+38768,11,Andrezinho,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37646,12,Betão,Avaí,Zagueiro,1.6,Provável,0,0,0,0,3,0,2,5,2,0,0,0,0,0,0,16,6,4.3,-0.7,1,5,1.6,,,,,,,
+37656,13,Fábio,Cruzeiro,Goleiro,4,Provável,4,0,0,0,1,0,2,0,0,0,7,0,0,0,0,1,0,4.7,3.5,8,2,4,,,,,,,
+37652,14,Carlos Alberto,Atlético-PR,Meia,0,Contundido,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,4,3,0,2.2,0,0,0,,,,,,,
+37657,15,Edu Dracena,Palmeiras,Zagueiro,0,Dúvida,0,0,0,0,3,0,2,1,0,0,0,0,0,0,0,0,3,5.5,0,0,6.2,0,,,,,,,
+37623,16,Rafael Marques,Vasco,Zagueiro,0,Contundido,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,7,0,-1.2,-1.2,0,0,0,,,,,,,
+37663,17,Julio Cesar,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37673,18,Alecsandro,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,-3.3,0,0,0,,,,,,,
+37674,19,Wagner,Vasco,Meia,0,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,-0.8,0,0,0,,,,,,,
+37655,20,Rafael Moura,Atlético-MG,Atacante,0,Nulo,0,2,2,1,4,0,0,0,0,0,0,0,0,0,1,2,2,-1,0.9,8.2,-0.3,0,,,,,,,
+37688,21,Cícero,São Paulo,Meia,-0.6,Provável,0,1,2,0,3,0,0,1,0,0,0,0,0,0,0,7,4,0,2.1,-1.1,-0.6,-0.6,,,,,,,
+37644,22,Rodrigo,Ponte Preta,Zagueiro,1.1,Provável,0,1,0,0,0,0,1,2,0,0,0,0,0,0,1,3,4,0,0,0,10.1,1.1,,,,,,,
+37662,23,Jonathan,Atlético-PR,Lateral,0,Provável,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,13,4,2.5,-0.4,0.4,5.8,0,,,,,,,
+37645,24,Marcelo Mattos,Vasco,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38928,25,Dudu Cearense,Botafogo,Meia,0,Nulo,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-0.8,0,,,,,,,
+38062,26,Lugano,São Paulo,Zagueiro,0,Nulo,0,1,0,0,4,0,1,0,0,0,0,0,0,0,0,5,0,0,2.2,0,0,0,,,,,,,
+37701,27,Léo Moura,Grêmio,Lateral,5.7,Contundido,0,2,1,0,2,0,3,5,0,0,0,0,0,0,1,11,6,4.3,5.2,0,8.9,5.7,,,,,,,
+37705,28,Juan,Avaí,Meia,1.4,Provável,0,2,0,0,2,0,0,0,0,0,0,0,0,0,1,10,2,,,0,-2,1.4,,,,,,,
+37770,29,Marcelo Grohe,Grêmio,Goleiro,-8,Provável,3,0,0,0,0,0,3,0,1,0,0,0,0,1,0,1,0,4.7,0,0,5,-8,,,,,,,
+38913,30,Nenê,Vasco,Meia,8.9,Dúvida,0,4,2,1,1,0,0,2,1,0,0,0,1,0,1,15,5,-0.3,0,8.7,-2.6,8.9,,,,,,,
+37718,31,Arouca,Palmeiras,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37851,32,Maicosuel,São Paulo,Meia,4.2,Dúvida,0,1,0,0,1,0,0,3,0,0,0,0,0,0,3,1,7,1.7,1.7,1.2,2.7,4.2,,,,,,,
+37792,33,Edinho,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37840,34,Gustavo,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37984,35,Aranha,Ponte Preta,Goleiro,3.5,Provável,7,0,0,0,0,0,2,0,0,0,10,0,0,0,0,2,1,4.4,2,5,11,3.5,,,,,,,
+37798,36,Rafael Sobis,Cruzeiro,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37919,37,Luis Fabiano,Vasco,Atacante,19.2,Provável,0,6,4,4,7,0,0,2,2,0,0,0,1,0,3,5,4,0.7,13.3,5.4,0,19.2,,,,,,,
+38001,38,Anderson,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38021,39,Wendel,Ponte Preta,Meia,0.9,Provável,0,2,0,0,4,0,0,1,1,0,0,0,1,0,0,3,4,-0.1,-0.5,6.9,-2,0.9,,,,,,,
+38225,40,Muriqui,Vasco,Atacante,0.5,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0.4,0,0.5,,,,,,,
+38100,41,Durval,Sport,Zagueiro,6.1,Provável,0,0,0,0,1,0,1,3,0,0,0,0,0,0,0,4,2,0,-0.3,1.4,2.2,6.1,,,,,,,
+38067,42,Danilo,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38957,43,Rafael Marques,Cruzeiro,Atacante,0,Nulo,0,5,0,0,1,0,0,2,0,0,0,0,0,0,2,12,3,0,0.6,3.7,2,0,,,,,,,
+38156,44,Artur Moraes,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38109,45,Jefferson,Botafogo,Goleiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38150,46,Marquinhos,Avaí,Meia,1,Provável,0,2,0,0,2,0,0,2,0,0,0,0,0,0,3,24,5,-1,1.8,0.4,-0.1,1,,,,,,,
+38138,47,Jô,Corinthians,Atacante,12.3,Provável,0,1,6,4,9,0,0,0,0,0,0,0,2,0,2,12,6,6.7,6,-0.8,12.4,12.3,,,,,,,
+38196,48,Maicon,Grêmio,Meia,-0.3,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-0.3,,,,,,,
+38162,49,Fred,Atlético-MG,Atacante,6.9,Provável,0,4,3,1,8,0,0,1,0,0,0,0,1,0,2,10,12,6.3,1.8,2.3,-0.3,6.9,,,,,,,
+38230,50,Grafite,Atlético-PR,Atacante,0,Dúvida,0,2,0,0,2,0,0,0,0,0,0,1,0,0,2,4,2,0,0.9,5.4,-0.6,0,,,,,,,
+38229,51,Fábio Santos,Atlético-MG,Lateral,3,Suspenso,0,2,2,0,9,0,2,4,3,0,0,0,0,0,0,20,9,-2.9,0.5,-1.7,6.3,3,,,,,,,
+38277,52,Thiago Neves,Cruzeiro,Meia,0.1,Provável,0,1,1,1,2,0,0,0,0,0,0,0,0,0,4,15,2,0,0,8.4,-0.8,0.1,,,,,,,
+38279,53,Wellington Paulista,Chapecoense,Atacante,0.6,Provável,0,3,2,3,5,0,0,2,2,0,0,0,0,0,3,9,4,6.7,0.3,7.2,9.5,0.6,,,,,,,
+38287,54,Roger,Botafogo,Atacante,0.6,Provável,0,3,6,0,3,0,0,4,0,0,0,0,1,0,1,7,3,1.1,5.5,0,2.6,0.6,,,,,,,
+38315,55,Jadson,Corinthians,Meia,-2,Provável,0,5,1,0,3,0,0,2,0,0,0,0,0,0,2,28,1,0.6,-0.8,0.8,0.4,-2,,,,,,,
+38421,56,Rafinha,Cruzeiro,Meia,-0.3,Nulo,0,1,0,0,5,0,0,3,0,0,0,0,0,0,0,13,9,2.6,0.5,0,1.1,-0.3,,,,,,,
+38311,57,Márcio Araújo,Flamengo,Meia,-1.1,Provável,0,1,0,0,7,0,0,7,0,0,0,0,0,0,0,12,7,6.2,0.1,1,2.8,-1.1,,,,,,,
+38425,58,Fábio Ferreira,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38246,59,Robinho,Atlético-MG,Atacante,5.1,Provável,0,1,2,1,3,0,0,8,1,0,0,0,0,0,1,15,4,1.1,0,11.4,-1.3,5.1,,,,,,,
+38400,60,Vinícius Pacheco,Avaí,Meia,-0.8,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0.5,0,0,0,-0.8,,,,,,,
+38394,61,Thiago Heleno,Atlético-PR,Zagueiro,0,Provável,0,1,0,1,4,0,0,4,1,0,0,0,0,0,0,3,2,0,1.1,8,2.5,0,,,,,,,
+38431,62,Diego Cavalieri,Fluminense,Goleiro,0,Nulo,6,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,1,-6,0,0,,,,,,,
+38440,63,Pierre,Fluminense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38523,64,Edílson,Grêmio,Lateral,-0.3,Provável,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5,-0.3,,,,,,,
+38508,65,Eder Luis,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+38530,66,Cleiton Xavier,Vitória,Meia,0.2,Nulo,0,3,0,0,7,0,0,2,0,0,0,0,0,0,2,16,4,1.2,-0.8,2,-1.4,0.2,,,,,,,
+50307,67,Adilson,Atlético-MG,Meia,0,Contundido,0,1,0,0,6,0,0,3,0,0,0,0,0,0,0,6,1,4.7,-1.9,-1.3,0,0,,,,,,,
+38632,68,Matheus Ferraz,Sport,Zagueiro,0,Nulo,0,1,0,1,7,0,0,3,1,0,0,0,0,0,1,6,1,-0.2,2.2,6,0,0,,,,,,,
+38545,69,Felipe Melo,Palmeiras,Meia,1.6,Provável,0,1,0,0,8,0,0,5,1,0,0,0,0,0,1,4,5,3.2,0,0.7,0,1.6,,,,,,,
+50324,70,Hudson,Cruzeiro,Meia,0,Dúvida,0,1,0,0,5,0,0,6,1,0,0,0,0,0,1,8,4,2,3.3,2.3,-0.6,0,,,,,,,
+38738,71,Douglas,Grêmio,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50317,72,David Braz,Santos,Zagueiro,4,Provável,0,2,0,1,3,0,2,2,1,0,0,0,0,0,0,16,1,0,9.2,3,-1.2,4,,,,,,,
+50348,73,Conca,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50328,74,Marcelo Oliveira,Grêmio,Lateral,0,Contundido,0,0,0,0,2,0,1,1,1,0,0,0,0,0,0,2,4,5.1,0,0,0,0,,,,,,,
+50407,75,Marquinho,Fluminense,Meia,0,Dúvida,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-2.5,0,0,,,,,,,
+50398,76,Paulo Henrique,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+37694,77,Henrique,Cruzeiro,Meia,-5.5,Suspenso,0,1,0,0,4,0,0,5,1,0,0,0,0,1,0,11,4,0.5,0.1,0.3,3.5,-5.5,,,,,,,
+61033,78,Rodriguinho,Corinthians,Meia,0,Nulo,0,3,1,1,6,0,0,3,1,0,0,0,2,0,2,14,11,6.5,0.6,8.4,7.5,0,,,,,,,
+38140,79,Fernando Prass,Palmeiras,Goleiro,0.1,Provável,4,0,0,0,0,0,2,0,0,0,9,0,0,0,0,4,1,10.7,7.5,-1,11,0.1,,,,,,,
+38910,80,Ricardo Oliveira,Santos,Atacante,0,Nulo,0,6,1,0,7,0,0,0,1,0,0,1,0,0,2,4,5,3.1,1.5,1.3,-0.9,0,,,,,,,
+50362,81,Lucas,Fluminense,Lateral,0,Provável,0,2,2,0,12,0,0,4,0,0,0,0,0,0,0,8,0,-1.8,-0.6,1.4,-0.2,0,,,,,,,
+50439,82,Vilson,Corinthians,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50421,83,Wesley,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50408,84,Breno,Vasco,Zagueiro,-0.6,Provável,0,0,0,0,3,0,0,1,0,0,0,0,0,0,1,5,1,0,1.9,-1.1,0,-0.6,,,,,,,
+50427,85,Kadu,Ponte Preta,Zagueiro,0,Contundido,0,1,0,0,4,0,1,10,1,0,0,0,0,0,0,1,3,10.1,6.2,3.6,0,0,,,,,,,
+50856,86,Henrique,Fluminense,Zagueiro,0,Provável,0,0,0,0,2,0,0,3,0,0,0,1,0,0,0,12,4,8.1,-1,-1.3,0.2,0,,,,,,,
+50645,87,Eduardo,Bahia,Lateral,2.1,Provável,0,0,2,0,9,0,2,7,1,0,0,0,0,0,0,25,3,0,5.2,-1.5,2.6,2.1,,,,,,,
+50459,88,Léo,Cruzeiro,Zagueiro,0.6,Provável,0,0,0,0,4,0,2,3,2,0,0,0,0,0,1,14,7,6.4,1.3,0.8,0.3,0.6,,,,,,,
+51175,89,Denis,São Paulo,Goleiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+51299,90,Emerson Silva,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+51413,91,Walter,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+51042,92,Apodi,Chapecoense,Lateral,-1.7,Provável,0,0,1,0,9,0,3,5,1,0,0,0,0,0,1,13,7,0.9,5.6,8.4,3.9,-1.7,,,,,,,
+51318,93,Leandro Donizete,Santos,Meia,0,Nulo,0,1,0,0,2,0,0,2,1,0,0,0,0,0,0,3,3,0,1.7,0,0,0,,,,,,,
+51319,94,Renato Cajá,Ponte Preta,Meia,1.3,Provável,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,7,0,0,0,0,0,1.3,,,,,,,
+51415,95,Roger Carvalho,Atlético-GO,Zagueiro,4.6,Provável,0,1,0,0,12,0,1,10,0,0,0,0,0,0,0,9,11,1.6,1.9,6.6,4.8,4.6,,,,,,,
+51772,96,Éverton Ribeiro,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+51700,97,Thiago Carleto,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+52253,98,Réver,Flamengo,Zagueiro,-0.6,Provável,0,0,0,0,2,0,2,3,1,0,0,0,0,0,1,9,5,-0.5,4.9,3.6,5.5,-0.6,,,,,,,
+51792,99,Kanu,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+52950,100,Victor,Atlético-MG,Goleiro,13.7,Provável,5,0,0,0,0,1,2,0,1,0,10,0,0,0,0,5,0,0.7,-1,5,15.1,13.7,,,,,,,
+53669,101,Lins,Ponte Preta,Atacante,0.3,Nulo,0,2,1,0,7,0,0,2,0,0,0,0,1,0,1,12,6,0,1.1,4,0.8,0.3,,,,,,,
+51705,102,Bruno Rodrigo,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-0.3,0,0,,,,,,,
+54424,103,Willians,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+51905,104,Leandro Salino,Vitória,Lateral,0,Provável,0,1,0,0,9,0,0,7,1,0,0,0,0,0,0,8,9,0,7.4,1.2,-0.4,0,,,,,,,
+55348,105,Luis Ricardo,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+52674,106,Gilson,Botafogo,Lateral,2.5,Provável,0,0,0,0,2,0,3,3,0,0,0,1,0,0,0,5,7,3.5,4.2,7.7,6.7,2.5,,,,,,,
+55594,107,Xuxa,Ponte Preta,Meia,0,Contundido,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,-0.3,1.4,0,0,0,,,,,,,
+54395,108,Elias,Atlético-MG,Meia,-1.6,Provável,0,1,2,1,3,0,0,5,1,0,0,0,0,0,0,7,4,9.6,0.8,3.8,0,-1.6,,,,,,,
+53731,109,Ferdinando,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+60784,110,Rafael Carioca,Atlético-MG,Meia,2.6,Provável,0,0,0,0,5,0,0,8,1,0,0,0,0,0,0,10,7,-0.8,0.7,2.8,4.3,2.6,,,,,,,
+54797,111,Túlio de Melo,Chapecoense,Atacante,-0.3,Nulo,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,5,1,0,0.2,-0.9,-0.3,-0.3,,,,,,,
+60802,112,Bruno Gallo,Vasco,Meia,0,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,-0.6,0,0,0,0,,,,,,,
+56102,113,João Paulo,Coritiba,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+60859,114,Jael,Grêmio,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+60787,115,Willians,Avaí,Atacante,-2.1,Dúvida,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,5,1,0,0,0,0.8,-2.1,,,,,,,
+60788,116,Marquinhos,Sport,Atacante,0,Nulo,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,2,2,0,0,10,-0.6,0,,,,,,,
+60853,117,Julio dos Santos,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+60969,118,Patric,Vitória,Lateral,-1.6,Nulo,0,1,1,0,6,0,1,1,0,0,0,0,0,0,0,16,1,3.2,0,0,-2,-1.6,,,,,,,
+68953,119,Leandro Damião,Flamengo,Atacante,3.4,Provável,0,4,0,1,5,0,0,1,0,0,0,0,0,0,4,1,2,0,11.3,0,0,3.4,,,,,,,
+60819,120,Dedé,Cruzeiro,Zagueiro,0,Dúvida,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,12,2,6.2,-2.3,6.4,0,0,,,,,,,
+50402,121,Kayke,Santos,Atacante,-1.7,Provável,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,6,2,-0.8,0,-0.3,0,-1.7,,,,,,,
+68693,122,Armero,Bahia,Lateral,0,Nulo,0,1,0,0,3,0,0,2,0,0,0,0,0,1,1,5,0,0,-2.9,0,0,0,,,,,,,
+68954,123,Marquinhos Gabriel,Corinthians,Meia,12.4,Provável,0,0,0,1,2,0,0,2,1,0,0,0,2,0,1,2,2,0,7.4,0,0,12.4,,,,,,,
+68979,124,Giovanni,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68725,125,Diego Renan,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68698,126,Bruno Silva,Botafogo,Meia,0,Provável,0,1,0,2,8,0,0,10,3,0,0,0,0,0,1,16,8,0.2,14.5,8.5,0.7,0,,,,,,,
+68744,127,Emerson Sheik,Ponte Preta,Atacante,2.9,Provável,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,8,5,0,0,0,-3.6,2.9,,,,,,,
+68986,128,Gustavo Santos,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69008,129,Neto,Chapecoense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68749,130,Everton Heleno,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+69010,131,João Carlos,Ponte Preta,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68773,132,Henrique Almeida,Coritiba,Atacante,2.2,Provável,0,3,6,1,2,0,0,7,0,0,0,1,0,0,3,14,10,11.8,2.7,6.9,1.7,2.2,,,,,,,
+69012,133,Santos,Atlético-PR,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68758,134,Fernandinho,Grêmio,Atacante,0,Nulo,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,2,8,0,0,21.1,0,0,,,,,,,
+68784,135,Júnior Dutra,Avaí,Atacante,0,Dúvida,0,3,0,0,3,0,0,1,0,0,0,1,0,0,1,12,7,2.4,0,0.5,3.8,0,,,,,,,
+69018,136,Deivid,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68770,137,Camacho,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-0.9,0,,,,,,,
+69014,138,Manoel,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68807,139,Neto Berola,Coritiba,Atacante,0,Nulo,0,2,2,1,5,0,0,2,1,0,0,0,1,0,0,8,3,13.9,-1.6,-1.4,0.5,0,,,,,,,
+69036,140,Eduardo,Atlético-GO,Lateral,0,Nulo,0,0,0,0,6,0,0,2,1,0,0,0,0,0,0,12,3,-0.9,-1,-0.7,-1.1,0,,,,,,,
+70222,141,Sidão,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-2,0,0,,,,,,,
+68808,142,Nino Paraíba,Ponte Preta,Lateral,2.8,Provável,0,2,1,1,7,0,2,11,1,0,0,0,1,0,3,28,11,22.8,2,3.8,5.8,2.8,,,,,,,
+68822,143,Rafael Santos,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68827,144,Renato Chaves,Fluminense,Zagueiro,0,Contundido,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,-1.3,0,0,0,0,,,,,,,
+68987,145,João Vitor,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69095,146,Montillo,Botafogo,Meia,-0.6,Dúvida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-0.6,,,,,,,
+68884,147,Klever,Atlético-GO,Goleiro,0,Nulo,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-8.3,0,0,0,0,,,,,,,
+69040,148,Vladimir,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68745,149,Vecchio,Santos,Meia,-1.3,Nulo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6,0,,,,0,-1.3,,,,,,,
+69047,150,Paulo Roberto,Corinthians,Meia,4.4,Provável,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,4.4,,,,,,,
+69138,151,Pablo,Atlético-PR,Atacante,0,Provável,0,2,5,0,4,0,0,1,2,0,0,0,0,0,0,11,4,0,-1.4,-3.3,-2,0,,,,,,,
+68834,152,Rithely,Sport,Meia,7.8,Provável,0,2,0,0,10,0,0,6,1,0,0,0,1,0,2,17,7,0,3.2,-1.6,0.6,7.8,,,,,,,
+68887,153,Gum,Fluminense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69160,154,Gastón Fernández,Grêmio,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0.2,0,0,5,0,,,,,,,
+68893,155,André Lima,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+71892,156,Wellington Silva,Bahia,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69165,157,Pablo,Corinthians,Zagueiro,-2.3,Provável,0,4,0,0,2,0,2,1,1,0,0,0,0,0,0,4,1,0.9,0,6.1,6.1,-2.3,,,,,,,
+68901,158,Rodrigo Pimpão,Botafogo,Atacante,-0.8,Provável,0,2,0,0,11,0,0,6,1,0,0,0,1,0,0,24,8,-0.4,2.2,5.8,-0.9,-0.8,,,,,,,
+69177,159,Léo,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69249,160,Martín Silva,Vasco,Goleiro,-7.3,Provável,14,0,0,0,0,0,0,0,1,0,7,0,0,0,0,4,0,4,-1.3,-1,-4.6,-7.3,,,,,,,
+68895,161,Wellington Silva,Fluminense,Atacante,0,Contundido,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,4,2.4,0,0,0,0,,,,,,,
+78407,162,Douglas Grolli,Chapecoense,Zagueiro,0,Nulo,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,11.9,0,,,,,,,
+68911,163,Diego Souza,Sport,Meia,0,Nulo,0,1,0,1,5,0,0,2,1,0,0,0,0,0,0,10,6,0,7.8,0,-0.2,0,,,,,,,
+68920,164,Dudu,Palmeiras,Atacante,0,Contundido,0,0,3,0,0,0,0,4,0,0,0,0,0,0,1,12,12,10.1,0,-1.4,0,0,,,,,,,
+69282,165,Lucas Barrios,Grêmio,Atacante,-0.9,Contundido,0,0,4,2,5,0,0,1,2,0,0,0,1,0,1,5,6,3.4,9.2,0,5,-0.9,,,,,,,
+68925,166,Leonardo Silva,Atlético-MG,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+69705,167,Nikão,Atlético-PR,Meia,0,Provável,0,2,0,0,1,0,0,3,0,0,0,1,0,0,3,11,6,1.9,4.6,5.1,0.6,0,,,,,,,
+68928,168,Rafael,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+70058,169,Tiago Real,Coritiba,Meia,1,Provável,0,0,0,0,4,0,0,1,1,0,0,0,2,0,2,7,0,0,0,2.2,4.4,1,,,,,,,
+70132,170,Alan Santos,Coritiba,Meia,2.6,Provável,0,1,1,0,5,0,0,9,1,0,0,0,0,0,0,9,1,1.7,0,3.5,1,2.6,,,,,,,
+70581,171,Fillipe Soutto,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+68910,172,Anselmo,Sport,Meia,6,Provável,0,2,0,0,9,0,0,10,2,0,0,0,0,0,0,8,4,,0,3.7,-0.2,6,,,,,,,
+70009,173,Romulo,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+70696,174,Fábio Carille,Corinthians,Técnico,5.14,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5.41,5.56,5.36,5.14,,,,,,,
+70173,175,Ederson,Flamengo,Meia,-0.8,Nulo,0,1,0,0,5,0,0,2,0,0,0,0,0,0,1,8,9,0.9,5.6,0,-1,-0.8,,,,,,,
+70323,176,Jorginho,Bahia,Técnico,4.71,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,8.93,4.71,,,,,,,
+73540,177,Rogério,Sport,Atacante,0,Nulo,0,0,0,0,1,0,0,2,0,0,0,0,0,0,3,11,8,2.6,1.5,2,0.5,0,,,,,,,
+70742,178,Seijas,Chapecoense,Meia,2.5,Provável,0,3,1,0,6,0,0,4,0,0,0,0,1,0,0,14,5,0,1.6,1.3,3.3,2.5,,,,,,,
+70666,179,Marllon,Ponte Preta,Zagueiro,1.6,Provável,0,1,0,0,3,0,2,7,1,0,0,0,0,0,0,3,4,6.1,5.1,0.7,6.7,1.6,,,,,,,
+70116,180,Fellipe Bastos,Corinthians,Meia,0,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1.4,0,,,,,,,
+70046,181,Victor Ferraz,Santos,Lateral,12.1,Nulo,0,1,0,2,4,0,1,0,2,0,0,0,0,0,0,12,3,4.1,0,-4,1.4,12.1,,,,,,,
+70929,182,Negueba,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+73619,183,Wellington Nem,São Paulo,Atacante,1.4,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.4,,,,,,,
+70916,184,Diogo Barbosa,Cruzeiro,Lateral,6.1,Provável,0,1,0,0,5,0,2,12,1,0,0,0,0,0,0,20,5,4.2,6.2,7.3,-0.7,6.1,,,,,,,
+70986,185,Léo Cittadini,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+73635,186,Rildo,Coritiba,Atacante,-1.8,Provável,0,0,0,1,4,0,0,3,1,0,0,0,0,0,0,3,7,0,0,9,4.5,-1.8,,,,,,,
+70934,187,Jackson,Bahia,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+71066,188,Mancuello,Flamengo,Meia,4.3,Nulo,0,2,0,1,3,0,0,3,0,0,0,0,0,0,1,3,1,0,0,9.3,0,4.3,,,,,,,
+73649,189,Lucas Pratto,São Paulo,Atacante,17.7,Provável,0,7,1,3,6,0,0,2,0,0,0,0,2,0,7,19,3,-2.4,8.7,16.1,1.5,17.7,,,,,,,
+73800,190,Rodrigo Caio,São Paulo,Zagueiro,0,Suspenso,0,0,0,0,5,0,2,7,3,0,0,0,0,0,0,10,2,-0.4,7.3,4.1,0.4,0,,,,,,,
+73721,191,Marcos Vinícius,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+71123,192,Thiago Mendes,São Paulo,Meia,0,Nulo,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,5,1,1,-3.8,0,0,0,,,,,,,
+71162,193,Vinícius,Bahia,Meia,-1.5,Provável,0,2,0,1,3,0,0,1,1,0,0,0,0,0,1,6,1,,,0,8.8,-1.5,,,,,,,
+73869,194,Lennon,Cruzeiro,Lateral,0,Nulo,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,9,1,4.7,0,0,-0.7,0,,,,,,,
+71571,195,Fernando Miguel,Vitória,Goleiro,7.7,Provável,6,0,0,0,0,0,1,0,1,0,12,0,0,0,0,5,2,5.5,3.1,9.7,0.5,7.7,,,,,,,
+73876,196,Jomar,Vasco,Zagueiro,0,Nulo,0,0,0,0,4,0,0,1,1,0,0,0,0,0,0,1,2,-1.6,0,0,0,0,,,,,,,
+71549,197,Kelvin,Vasco,Atacante,0,Contundido,0,0,2,0,3,0,0,4,0,0,0,0,0,0,3,9,8,-0.4,5.7,-0.8,4.1,0,,,,,,,
+73991,198,Walisson Maia,Coritiba,Zagueiro,5,Nulo,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,3,0,1.3,0,0,0,5,,,,,,,
+71479,199,Lucho González,Atlético-PR,Meia,0,Provável,0,2,1,0,4,0,0,1,0,0,0,0,0,0,0,10,1,0,0,-1.1,-0.8,0,,,,,,,
+73974,200,Alison,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+71572,201,Gabriel,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+73978,202,René,Vitória,Zagueiro,0,Nulo,0,0,0,0,5,0,1,2,1,0,0,0,0,0,0,6,3,1,0,0,2.6,0,,,,,,,
+74060,203,Luiz Antonio ,Chapecoense,Meia,8.2,Provável,0,1,0,2,6,0,0,3,0,0,0,1,1,0,4,9,0,0.1,8.4,5.2,6.7,8.2,,,,,,,
+73992,204,Rodinei,Flamengo,Lateral,0,Nulo,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,,,,,,,
+71631,205,Weverton,Atlético-PR,Goleiro,0,Nulo,10,0,0,0,0,0,0,0,1,0,4,0,0,0,0,4,0,-7.2,-6,1,1,0,,,,,,,
+78584,206,Douglas Friedrich,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+71227,207,Maicon,São Paulo,Zagueiro,5.4,Provável,0,2,0,0,0,0,2,4,1,0,0,0,0,0,1,13,0,0.9,0,4.1,2.9,5.4,,,,,,,
+71709,208,Cuéllar,Flamengo,Meia,0,Nulo,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,2,0,0,0,-0.5,-3.6,0,,,,,,,
+71704,209,Manga Escobar,Vasco,Atacante,1.7,Provável,0,3,1,1,2,0,0,0,0,0,0,0,1,0,2,5,1,0,0,12.2,0.7,1.7,,,,,,,
+71719,210,Elton,Ponte Preta,Meia,-2.9,Suspenso,0,2,0,0,10,0,0,11,0,0,0,0,0,1,0,13,5,3.4,2.9,0.7,4.6,-2.9,,,,,,,
+74081,211,Guilherme Costa,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.5,0,,,,,,,
+74061,212,Gatito Fernández,Botafogo,Goleiro,0,Provável,2,0,0,0,0,0,3,0,0,0,13,0,0,0,0,1,1,11,11,19.7,8.5,0,,,,,,,
+74075,213,Wallace Oliveira,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+74083,214,Adryan ,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+71724,215,Agenor,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+61149,216,Lucca,Ponte Preta,Atacante,2.1,Provável,0,3,1,4,8,0,0,5,0,0,0,0,0,0,4,16,13,13.9,0.9,17.2,9.7,2.1,,,,,,,
+71818,217,Bruno Grassi,Grêmio,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+74140,218,Élber,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+61985,219,Airton,Botafogo,Meia,0,Contundido,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,7,4,0,1.9,0,1.6,0,,,,,,,
+62009,220,Camilo,Botafogo,Meia,0,Contundido,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,-0.1,1.4,3.1,0,0,,,,,,,
+62047,221,Jean,Palmeiras,Lateral,0,Dúvida,0,2,1,1,1,0,1,2,0,1,0,0,0,0,2,10,1,15.2,0,-2.4,0,0,,,,,,,
+61211,222,Carlos Cesar,Atlético-MG,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,-0.7,0,0,0,0,,,,,,,
+62024,223,Edimar,São Paulo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+61188,224,Gilberto,São Paulo,Atacante,0,Nulo,0,1,0,0,2,0,0,0,1,0,0,0,0,0,1,2,0,0.7,0,0,-2.6,0,,,,,,,
+62121,225,Vanderlei,Santos,Goleiro,7.7,Provável,6,0,0,0,0,1,2,0,0,0,9,0,0,0,0,2,0,-3,26.7,1,-1,7.7,,,,,,,
+62128,226,Walter,Atlético-GO,Atacante,-1,Nulo,0,4,2,1,8,0,0,1,1,0,0,0,0,0,2,20,10,10.5,-2.3,-0.4,-0.3,-1,,,,,,,
+62130,227,William Matheus,Coritiba,Lateral,6.7,Provável,0,1,1,0,7,0,3,5,2,0,0,0,0,0,4,16,10,1.1,5.7,4.3,2.6,6.7,,,,,,,
+62086,228,Pará,Flamengo,Lateral,1.1,Provável,0,1,0,0,7,0,2,2,0,0,0,0,1,0,0,13,4,0.2,4.7,3.7,4,1.1,,,,,,,
+62974,229,Werley,Coritiba,Zagueiro,7.8,Provável,0,1,0,0,0,0,3,6,0,0,0,0,0,0,0,10,0,3.5,-0.6,4.1,8.1,7.8,,,,,,,
+62104,230,Robinho,Cruzeiro,Meia,3.6,Provável,0,1,0,0,3,0,0,3,0,0,0,0,0,0,1,10,0,0,0,0,-1.3,3.6,,,,,,,
+68929,231,Thiago Ribeiro,Santos,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+63058,232,Willian Farias,Vitória,Meia,-0.7,Provável,0,1,0,0,5,0,0,9,2,0,0,1,0,0,0,12,2,4.4,1.4,5.3,0,-0.7,,,,,,,
+63013,233,Marcos Rocha,Atlético-MG,Lateral,0,Contundido,0,1,0,0,5,0,0,4,0,0,0,0,1,0,0,16,3,0,-0.9,7.6,0,0,,,,,,,
+62997,234,João Paulo,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+63128,235,Douglas,São Paulo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+63110,236,Alan Ruschel,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+68930,237,Kieza,Vitória,Atacante,-0.3,Provável,0,2,3,1,8,0,0,1,0,0,0,0,0,0,0,4,12,0,0,2.7,8,-0.3,,,,,,,
+63177,238,Júnior Viçosa,Atlético-GO,Atacante,0.9,Nulo,0,4,3,0,1,0,0,0,0,0,0,0,0,0,2,5,3,1.2,0.5,0.6,-0.4,0.9,,,,,,,
+63158,239,Moisés,Palmeiras,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+63000,240,Victor Ramos,Chapecoense,Zagueiro,0.8,Provável,0,0,0,0,3,0,3,7,1,0,0,0,0,0,0,17,0,1.2,8.9,5,2.4,0.8,,,,,,,
+63172,241,Paulão,Vasco,Zagueiro,0.8,Provável,0,4,0,0,7,0,0,2,0,0,0,0,0,0,0,6,3,0,4.1,-1.7,-0.8,0.8,,,,,,,
+68932,242,Renan Ribeiro,São Paulo,Goleiro,10.4,Provável,2,0,0,0,0,0,3,0,1,0,4,0,0,0,0,7,0,4,4.4,4.7,-4.6,10.4,,,,,,,
+63219,243,Luan,Atlético-MG,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78856,244,Marcão Silva,Atlético-GO,Meia,3,Provável,0,1,0,0,8,0,0,15,2,0,0,0,0,0,0,12,3,4.8,1.7,6.3,0.3,3,,,,,,,
+62069,245,Maikon Leite,Bahia,Atacante,0,Nulo,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,-1,0,0,0,,,,,,,
+63422,246,Jucilei,São Paulo,Meia,6.8,Provável,0,1,0,0,15,0,0,17,0,0,0,0,0,0,0,13,11,8.3,5,3.5,0.1,6.8,,,,,,,
+68950,247,Ronaldo Alves,Sport,Zagueiro,2.5,Provável,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,2,2,0,0,0,-0.1,2.5,,,,,,,
+68938,248,Giovanni Augusto,Corinthians,Meia,-0.3,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-0.3,,,,,,,
+78897,249,Naldo,Ponte Preta,Meia,0,Provável,0,1,0,0,4,0,0,7,0,0,0,0,0,0,0,5,1,6.4,0,3.2,0,0,,,,,,,
+68690,250,André,Sport,Atacante,-0.2,Provável,0,1,2,3,11,0,0,5,1,0,0,0,0,0,1,8,2,-1.1,0,26.3,-0.7,-0.2,,,,,,,
+78991,251,Moisés Ribeiro,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82613,252,Alan Costa,Vitória,Zagueiro,0.4,Provável,0,1,1,0,3,0,1,4,0,0,0,0,0,0,0,4,3,5,1.2,3.6,0.6,0.4,,,,,,,
+78994,253,Eduardo Henrique,Atlético-PR,Meia,0,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,-0.3,0,0,0,0,,,,,,,
+79035,254,Luiz Felipe,Santos,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78968,255,Leandro Pereira,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82634,256,Matheus Galdezani,Coritiba,Meia,7.2,Suspenso,0,2,0,1,10,0,0,11,3,0,0,0,0,0,3,23,14,4.5,1.6,1.1,5.8,7.2,,,,,,,
+82644,257,Léo Artur,Ponte Preta,Meia,0,Provável,0,2,1,0,3,0,0,1,0,0,0,0,1,0,3,11,2,0,0,-1.2,8,0,,,,,,,
+79042,258,Tiago ,Bahia,Zagueiro,4.4,Provável,0,0,2,1,13,0,2,5,1,0,0,0,0,0,1,8,4,8.1,3.1,-0.6,2.6,4.4,,,,,,,
+79066,259,Alex Muralha,Flamengo,Goleiro,-2.1,Nulo,4,0,0,0,1,0,2,0,0,0,4,0,0,0,0,5,3,-2,4.7,4.7,8.2,-2.1,,,,,,,
+79041,260,Thomaz,São Paulo,Meia,14.6,Dúvida,0,1,1,1,2,0,0,5,1,0,0,0,1,0,1,3,6,1.9,1.2,1.9,2.2,14.6,,,,,,,
+82627,261,Luiz Araújo,São Paulo,Atacante,0,Nulo,0,4,0,2,3,0,0,7,0,0,0,0,0,0,2,8,3,2.6,10.6,11,6.1,0,,,,,,,
+79193,262,Abuda,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+79437,263,Roger Machado ,Atlético-MG,Técnico,5.25,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.84,2.29,4.83,4.67,5.25,,,,,,,
+82647,264,Régis,Bahia,Meia,0,Contundido,0,1,0,2,0,0,0,1,0,0,0,0,0,0,1,3,1,18.5,0,0.5,0,0,,,,,,,
+82754,265,André Castro,Atlético-GO,Meia,1.8,Provável,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,4,1,-0.3,1.4,0,0,1.8,,,,,,,
+79343,266,Doriva,Atlético-GO,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+79553,267,Mansur,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82787,268,Joel,Botafogo,Atacante,0,Nulo,0,1,1,0,3,0,0,1,0,0,0,0,0,0,0,2,4,-0.3,0,0.4,1.7,0,,,,,,,
+62129,269,Wellington,Vasco,Meia,0,Dúvida,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,-4.6,0,,,,,,,
+79701,270,Lucas Silva,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.4,0,0,0,0,,,,,,,
+83004,271,Otero,Atlético-MG,Meia,0,Dúvida,0,3,0,0,2,0,0,2,1,0,0,0,0,0,1,1,4,1,3.8,-2.5,2.9,0,,,,,,,
+82791,272,Toshi,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+79334,273,Ricardo Silva,Atlético-GO,Zagueiro,0,Nulo,0,2,0,0,8,0,0,5,1,0,0,0,0,0,0,11,1,0.8,0.8,-1.3,0.8,0,,,,,,,
+83433,274,Patrick,Sport,Meia,4.3,Provável,0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,5,1,,,,0,4.3,,,,,,,
+79702,275,Antônio Carlos ,Palmeiras,Zagueiro,-2.9,Dúvida,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,5,1,0,-1.1,0,0,-2.9,,,,,,,
+83048,276,Rafael Thyere,Grêmio,Zagueiro,-0.5,Nulo,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,5,0,0,4.7,7.3,0,-0.5,,,,,,,
+82817,277,Tomas Bastos,Coritiba,Meia,0,Nulo,0,3,0,2,8,0,0,4,1,0,0,0,0,0,3,13,3,17.9,2.5,-3,2.1,0,,,,,,,
+83263,278,Yuri,Bahia,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82943,279,Matheus Ribeiro,Santos,Lateral,4.2,Nulo,0,1,0,0,1,0,2,1,0,0,0,0,0,0,0,3,1,0,7.3,0,0,4.2,,,,,,,
+79578,280,Sassá,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+79973,281,Helton Leite,Botafogo,Goleiro,1,Nulo,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,,,,,,
+84313,282,Feijão,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+83683,283,Andrei Girotto,Chapecoense,Meia,-1.9,Suspenso,0,4,0,0,14,0,0,9,3,0,0,0,0,0,0,12,4,1.9,-4.3,5.6,2.2,-1.9,,,,,,,
+83772,284,Neilton,Vitória,Atacante,0.2,Provável,0,0,0,0,4,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,5.9,0.2,,,,,,,
+79887,285,Fabiano,Palmeiras,Lateral,0,Dúvida,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,3,0,4.7,0.8,0,0,0,,,,,,,
+79892,286,Nenén,Chapecoense,Meia,0,Nulo,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0.9,0.4,0,0,,,,,,,
+83615,287,Thiago Martins,Palmeiras,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+83522,288,Fagner Alemão,Avaí,Lateral,1.8,Provável,0,1,2,0,3,0,2,11,1,0,0,0,0,0,0,17,3,5.1,4.3,2.4,7.7,1.8,,,,,,,
+80196,289,Yago Pikachu,Vasco,Lateral,-1.2,Nulo,0,0,0,1,3,0,0,2,0,0,0,0,1,0,1,13,4,2.5,8.3,4.4,0,-1.2,,,,,,,
+84382,290,Danilo Barcelos,Atlético-MG,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80124,291,Matheus Mancini,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80281,292,Cleberson,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,-1.2,0,0,0,0,,,,,,,
+83786,293,Neris,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80129,294,Jadson,Ponte Preta,Meia,0,Nulo,0,1,0,0,2,0,0,4,0,0,0,0,0,0,0,10,4,-0.1,4.3,0,1.3,0,,,,,,,
+83791,295,Diego Jardel,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+83869,296,Diego Tavares,Avaí,Lateral,0,Dúvida,0,3,1,0,3,0,2,2,0,0,0,0,0,0,0,9,9,4.1,4.4,0.5,6.3,0,,,,,,,
+85083,297,Vinicius Silvestre,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84554,298,Lucão,São Paulo,Zagueiro,5.7,Provável,0,2,0,0,4,0,2,4,0,0,0,0,0,0,1,8,1,0,0,8,1.6,5.7,,,,,,,
+83817,299,Clayson,Corinthians,Atacante,3.1,Nulo,0,0,2,2,3,0,0,5,1,0,0,0,1,0,2,4,1,17.1,0,4.9,1.2,3.1,,,,,,,
+80140,300,Nadson,Chapecoense,Meia,0.4,Contundido,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,-0.8,0,0,0.2,0.4,,,,,,,
+84530,301,Maxi Rodríguez,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80188,302,Marcos Junior,Fluminense,Atacante,0,Provável,0,1,1,0,2,0,0,0,1,0,0,0,0,0,0,4,3,1.5,-3.3,-0.9,0.2,0,,,,,,,
+80286,303,Matheus Vidotto,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80189,304,Lucas Fonseca,Bahia,Zagueiro,6.8,Provável,0,0,0,0,3,0,2,2,0,0,0,0,0,0,1,6,3,-0.8,0,0.2,6.4,6.8,,,,,,,
+84558,305,Lucas Romero,Cruzeiro,Meia,3.2,Dúvida,0,2,0,0,4,0,0,4,0,0,0,0,1,0,0,9,2,0.8,4.5,1,0,3.2,,,,,,,
+80363,306,Ariel Cabral,Cruzeiro,Meia,3.9,Provável,0,2,0,0,4,0,0,9,1,0,0,0,0,0,0,14,8,0,0.3,7.5,0.8,3.9,,,,,,,
+80313,307,Gilberto ,Vasco,Lateral,1.6,Provável,0,1,0,0,5,0,0,15,2,0,0,0,0,0,0,21,5,3.6,6.6,5.3,-1.2,1.6,,,,,,,
+84691,308,Judson,Avaí,Meia,0,Provável,0,3,0,0,6,0,0,4,0,0,0,0,0,0,1,10,2,2.8,1.9,0.2,0,0,,,,,,,
+80337,309,Arthur ,Chapecoense,Atacante,9.6,Provável,0,4,3,1,12,0,0,4,1,0,0,1,2,0,2,12,9,2.3,2.7,9.5,0.4,9.6,,,,,,,
+80318,310,Ezequiel ,Cruzeiro,Lateral,-0.9,Provável,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,-0.9,,,,,,,
+80370,311,Edson,Bahia,Meia,0,Contundido,0,3,1,1,1,0,0,4,0,0,0,0,1,0,1,9,5,15.8,1.5,3.8,0.6,0,,,,,,,
+84585,312,Allione,Bahia,Meia,4.3,Provável,0,0,2,0,3,0,0,8,0,0,0,0,4,0,0,15,9,9.1,4.4,1.6,11.7,4.3,,,,,,,
+74271,313,Edigar Junio,Bahia,Atacante,11.9,Provável,0,1,1,2,10,0,0,1,0,0,0,1,0,0,3,7,8,8.9,-0.3,0.9,-0.1,11.9,,,,,,,
+71920,314,Michel ,Grêmio,Meia,19,Provável,0,2,0,2,9,0,0,8,0,0,0,0,0,0,0,8,5,3.5,-0.9,0,5,19,,,,,,,
+71927,315,Diego Rosa,Atlético-GO,Meia,0,Nulo,0,0,1,0,2,0,0,2,0,0,0,0,1,0,1,1,1,6.4,1.7,0,0,0,,,,,,,
+72037,316,Renan Fonseca,Botafogo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+77500,317,Yago,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+74213,318,Alejandro Guerra,Palmeiras,Meia,0,Dúvida,0,1,0,1,7,0,0,2,0,0,0,0,0,0,3,11,5,10.1,0,0.8,-0.1,0,,,,,,,
+72007,319,Uillian Correia,Vitória,Meia,0,Provável,0,2,0,0,13,0,0,4,1,0,0,0,0,0,0,8,2,-0.2,-0.6,0.7,-1.6,0,,,,,,,
+71937,320,Juninho,Bahia,Meia,5,Provável,0,4,0,0,13,0,0,6,0,0,0,1,1,0,4,17,6,7.8,1.4,-1.5,4.2,5,,,,,,,
+75295,321,Paolo Guerrero,Flamengo,Atacante,0,Nulo,0,6,3,0,6,0,0,4,0,0,0,0,0,0,2,3,7,-0.7,0,2.4,9.4,0,,,,,,,
+84703,322,Niltinho,Chapecoense,Atacante,0,Nulo,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,0,0,,,,,,,
+72079,323,Bruno Cortez,Grêmio,Lateral,-2.9,Provável,0,0,0,0,6,0,3,3,2,0,0,0,0,0,0,9,3,4.2,5,0,5.6,-2.9,,,,,,,
+72168,324,João Paulo,Botafogo,Meia,1,Provável,0,1,1,0,13,0,0,3,1,0,0,0,0,0,1,22,10,-2.7,0.4,0.1,-2.6,1,,,,,,,
+72362,325,Rodrigo Lindoso,Botafogo,Meia,0.8,Provável,0,0,0,1,2,0,0,8,0,0,0,0,0,0,0,9,3,0,15.6,3,0,0.8,,,,,,,
+72150,326,Fernandinho,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,,,,,,,
+72290,327,Jailson,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72376,328,Cléber,Santos,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72490,329,Fred,Vitória,Zagueiro,2.7,Provável,0,3,0,0,7,0,0,3,2,0,0,0,0,0,1,14,0,0,-0.1,-3.5,-2.6,2.7,,,,,,,
+72386,330,Hernane,Bahia,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72297,331,Airton ,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+77959,332,Copete,Santos,Atacante,0,Provável,0,0,0,0,3,0,0,2,2,0,0,0,0,0,0,12,1,0,-3.4,-0.1,-1.7,0,,,,,,,
+72491,333,Bressan,Grêmio,Zagueiro,0,Nulo,0,0,1,0,2,0,0,2,1,0,0,0,0,0,0,6,1,0,0,-1.4,0,0,,,,,,,
+77529,334,Leandro Silva,Avaí,Lateral,2.1,Provável,0,3,1,0,6,0,1,6,0,0,0,0,0,1,1,21,2,7,-0.5,-4.1,0,2.1,,,,,,,
+78117,335,Everaldo,Atlético-GO,Atacante,18.8,Provável,0,2,1,2,5,0,0,1,0,0,0,0,1,0,7,10,5,4.9,-0.3,-0.4,4.6,18.8,,,,,,,
+77967,336,Mena,Sport,Lateral,0,Nulo,0,0,0,0,6,0,0,1,0,0,0,0,0,1,0,3,1,0,0,-6.7,0,0,,,,,,,
+77544,337,Jorginho,Atlético-GO,Meia,5.8,Provável,0,1,1,0,9,0,0,10,0,0,0,0,0,0,1,20,11,1,1.1,0.1,5.2,5.8,,,,,,,
+77556,338,Bruno Brígido,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78077,339,Madson,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78086,340,César,Flamengo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+77777,341,João Schmidt ,São Paulo,Meia,1.6,Nulo,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,7,2,1.7,-0.3,0,0,1.6,,,,,,,
+77551,342,Thomás,Sport,Meia,8.5,Provável,0,0,0,1,3,0,0,1,0,0,0,0,0,0,1,0,6,,,0,3.7,8.5,,,,,,,
+78248,343,Gustavo Henrique,Santos,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72565,344,Luan,Avaí,Meia,2.3,Provável,0,0,0,0,11,0,0,13,2,0,0,0,0,0,1,11,11,3.2,-1.2,7.7,3.8,2.3,,,,,,,
+72871,345,Cárdenas,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78478,346,Willian Arão,Flamengo,Meia,0.3,Provável,0,0,0,0,7,0,0,6,0,0,0,0,1,0,2,21,6,3.6,5.2,0,1.3,0.3,,,,,,,
+72603,347,William Menezes,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72595,348,Mauricio Kozlinski,Avaí,Goleiro,7,Provável,5,0,0,0,0,0,2,0,0,0,8,0,0,0,0,3,0,4.7,2,-1,10.4,7,,,,,,,
+78464,349,Fábio Braga,Ponte Preta,Meia,-2.6,Nulo,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,1.7,-2.6,,,,,,,
+78371,350,Miller Bolaños,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78495,351,Marcos,Atlético-GO,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+72745,352,Escudero,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78445,353,Renê,Flamengo,Lateral,3.2,Provável,0,0,0,0,1,0,0,6,0,0,0,0,0,0,0,9,3,1.7,0,3.6,0,3.2,,,,,,,
+72879,354,Vladimir Hernández,Santos,Atacante,0,Nulo,0,1,1,1,4,0,0,2,1,0,0,0,0,0,1,5,10,10.2,-0.2,0.4,1.7,0,,,,,,,
+85586,355,Jonas,Coritiba,Meia,0,Provável,0,2,0,0,6,0,0,6,2,0,0,0,0,0,0,7,2,6.2,-0.3,-2.4,0,0,,,,,,,
+72605,356,Vitor Hugo,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78497,357,Arnaldo,Botafogo,Lateral,0.9,Provável,0,0,0,0,8,0,3,9,1,0,0,0,0,0,0,10,4,0,7.2,4.9,10.3,0.9,,,,,,,
+72893,358,Eduardo da Silva,Atlético-PR,Atacante,0,Dúvida,0,1,1,0,2,0,0,3,0,0,0,0,0,0,0,2,1,1.9,2.3,0,0,0,,,,,,,
+73384,359,Samuel Xavier,Sport,Lateral,5.5,Provável,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,14,0,-4.9,-1.1,0,0,5.5,,,,,,,
+73336,360,Rafael Martins,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78548,361,Jean Mota,Santos,Meia,-1.2,Provável,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,9,1,-0.7,0,1.1,0,-1.2,,,,,,,
+73281,362,Renê Júnior,Bahia,Meia,3.9,Provável,0,3,2,1,5,0,0,9,1,0,0,0,0,0,1,10,7,0,0,2.2,15.3,3.9,,,,,,,
+73513,363,Maranhão,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78578,364,Paulinho,Vitória,Atacante,0.5,Nulo,0,5,1,0,4,0,0,2,2,0,0,1,0,0,4,22,2,2.7,1.9,-0.7,-2.1,0.5,,,,,,,
+78632,365,Bryan,Cruzeiro,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+73446,366,Éderson,Atlético-PR,Atacante,0,Nulo,0,1,1,0,0,0,0,1,0,0,0,0,0,0,2,4,0,0,0,2.1,0.6,0,,,,,,,
+73340,367,Getterson,Coritiba,Atacante,0,Nulo,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,4,2,0.4,-0.7,0,0,0,,,,,,,
+82567,368,Moisés,Chapecoense,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+73421,369,Rafael Vaz,Flamengo,Zagueiro,0,Nulo,0,1,0,0,2,0,1,3,0,0,0,0,0,0,0,11,1,3,5,-1,0,0,,,,,,,
+73515,370,Gabriel,Flamengo,Atacante,0,Contundido,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,-2,0,0,0,,,,,,,
+78715,371,Ramiro,Grêmio,Meia,7.7,Provável,0,4,1,2,6,0,0,5,2,0,0,0,2,0,0,12,8,17,3.5,0,2,7.7,,,,,,,
+78855,372,Thiago Santos,Palmeiras,Meia,-1.6,Dúvida,0,1,1,0,10,0,0,7,2,0,0,0,0,0,0,10,3,0,3.8,0,-0.6,-1.6,,,,,,,
+78839,373,Gabriel Gasparotto,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+78840,374,Pedro Castro,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+78850,375,Reinaldo,Chapecoense,Lateral,9,Provável,0,2,0,2,6,0,3,10,0,0,0,0,0,0,0,30,4,2.1,4.3,15.8,8.2,9,,,,,,,
+73517,376,Douglas Pires,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84761,377,Claudinei Oliveira,Avaí,Técnico,1.55,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.25,1.41,0.9,5.35,1.55,,,,,,,
+84718,378,Denilson,São Paulo,Atacante,0,Nulo,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,11,2,-0.1,-1.8,1,0,0,,,,,,,
+81219,379,Thallyson,Vitória,Lateral,0.5,Provável,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,-1.5,0.5,,,,,,,
+84896,380,Lucas Otávio ,Avaí,Meia,-0.6,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-0.6,,,,,,,
+81223,381,Erazo,Atlético-MG,Zagueiro,4.2,Provável,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4.2,,,,,,,
+84917,382,Jeferson,Ponte Preta,Lateral,0,Nulo,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,4.5,0,,,,,,,
+81770,383,Clayton,Corinthians,Atacante,15.5,Nulo,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-0.8,0,15.5,,,,,,,
+81682,384,Cazares,Atlético-MG,Meia,0,Nulo,0,4,0,0,4,0,0,3,0,0,0,0,1,0,5,13,1,1.1,6.3,6.2,-1.1,0,,,,,,,
+78605,385,Gabriel,Corinthians,Meia,-3,Provável,0,0,0,0,5,0,0,8,1,0,0,0,0,0,1,7,4,-0.9,7.1,2.5,4.3,-3,,,,,,,
+81241,386,Oswaldo Henríquez,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+81798,387,Rossi,Chapecoense,Atacante,2,Provável,0,2,1,0,8,0,0,5,2,0,0,2,1,0,2,17,6,5.4,0,2.7,3.2,2,,,,,,,
+91156,388,Jesiel,Atlético-MG,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80373,389,Wanderson,Atlético-GO,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+81845,390,Alisson,Cruzeiro,Meia,1.2,Provável,0,1,1,1,11,0,0,6,0,0,0,0,1,0,3,25,8,7.3,12.9,-2.5,-1.5,1.2,,,,,,,
+91194,391,Thiago,Flamengo,Goleiro,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+81903,392,Wellington Simião,Avaí,Meia,-0.1,Contundido,0,1,1,0,4,0,0,3,0,0,0,0,0,0,0,10,4,0.4,1.7,0,0.3,-0.1,,,,,,,
+91203,393,Éder ,Bahia,Zagueiro,0,Nulo,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,3.4,0,0,0,,,,,,,
+81898,394,Osman,Chapecoense,Atacante,0,Nulo,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,-0.5,0,0,-1.4,0,,,,,,,
+84925,395,Elder Santana,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+81905,396,Henrique Dourado,Fluminense,Atacante,0,Provável,0,2,1,6,8,0,0,2,0,0,0,0,1,0,2,13,6,15.9,11,18.3,9.2,0,,,,,,,
+91204,397,Warleson,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+81923,398,Donatti,Flamengo,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91201,399,Pepê,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0,0.5,0,0,,,,,,,
+84926,400,Yago,Atlético-MG,Meia,-0.2,Provável,0,0,0,0,6,0,0,4,2,0,0,0,0,0,1,3,0,0,0,0,0.1,-0.2,,,,,,,
+82411,401,Cueva,São Paulo,Meia,0,Nulo,0,2,1,0,0,0,0,2,0,0,0,0,0,0,1,11,4,2.3,1.7,0,0,0,,,,,,,
+91260,402,Lucas Perri,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84847,403,Luan Peres ,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84927,404,Dodô,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82455,405,Zé Rafael ,Bahia,Meia,3.7,Provável,0,3,1,1,10,0,0,12,0,0,0,0,3,0,5,8,13,15.9,3.4,5,21.1,3.7,,,,,,,
+91359,406,Bruno Bispo,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91264,407,Matheus Savio,Flamengo,Meia,0,Nulo,0,1,1,1,1,0,0,5,0,0,0,0,0,0,1,3,0,12.1,0.8,3.4,0,0,,,,,,,
+84993,408,Fabrício Baiano,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80537,409,Michael,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85004,410,Marcos Felipe ,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91388,411,Rodrigo Ramos,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+82469,412,Douglas Coutinho ,Atlético-PR,Atacante,0,Nulo,0,1,0,0,4,0,0,0,0,0,0,0,0,0,1,5,2,-0.1,-0.8,1.2,-1.1,0,,,,,,,
+91519,413,Kazim,Corinthians,Atacante,0,Nulo,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,-0.5,0,-0.5,0,0,,,,,,,
+85040,414,Gabriel Xavier,Vitória,Meia,1.6,Provável,0,0,0,0,2,0,0,3,0,0,0,0,0,0,1,3,5,0,0,0,5.1,1.6,,,,,,,
+82463,415,Otávio ,Atlético-PR,Meia,0,Provável,0,3,0,0,3,0,0,4,1,0,0,0,0,0,0,7,1,0,4.9,2.3,-3.4,0,,,,,,,
+85149,416,Ronaldo,Sport,Meia,0,Contundido,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,1,0,2.3,0,0,0,,,,,,,
+86861,417,Vinicius,Vitória,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85211,418,Thalles,Vasco,Atacante,0,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,,,,,,,
+91714,419,Marciel,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91687,420,João Pedro,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-0.3,0,0,0,0,,,,,,,
+85241,421,Yerry Mina,Palmeiras,Zagueiro,0,Nulo,0,2,1,0,6,0,2,8,1,0,0,0,0,0,1,5,2,6.6,0,2.9,10.5,0,,,,,,,
+85425,422,João Paulo,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85418,423,Uilson,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85300,424,Berrío ,Flamengo,Atacante,0,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,,,,,,,
+91815,425,Nogueira,Fluminense,Zagueiro,0,Nulo,0,0,0,0,1,0,0,1,2,0,0,1,0,0,2,6,2,0,-1.1,3,0,0,,,,,,,
+91715,426,Matheus Cassini,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91808,427,Caíque França,Corinthians,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91866,428,Zé Ivaldo,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,-1.1,0,0,0,0,,,,,,,
+91842,429,Breno,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85423,430,Valdívia,Atlético-MG,Meia,3.3,Dúvida,0,0,0,0,3,0,0,2,0,0,0,0,0,0,3,4,4,,0,0,2.4,3.3,,,,,,,
+91917,431,Silva,Atlético-GO,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91973,432,Lucas Marques,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85629,433,Daniel,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91972,434,João Paulo,Bahia,Atacante,0,Nulo,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0.9,0,0,,,,,,,
+85626,435,Léo,Fluminense,Lateral,0,Provável,0,0,1,0,7,0,0,2,1,0,0,0,1,0,1,15,2,2.2,-1.4,1.4,-2.3,0,,,,,,,
+85591,436,Artur,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85931,437,Hyoran,Palmeiras,Meia,1.9,Nulo,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,4,1,0,0.8,0,0,1.9,,,,,,,
+91102,438,Flávio,Vitória,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+92057,439,Gabriel Félix,Vasco,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91664,440,Adryelson,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86120,441,Borja,Palmeiras,Atacante,0,Nulo,0,3,2,2,2,0,0,0,0,0,0,0,0,0,1,2,2,16.1,0,0.4,1,0,,,,,,,
+86143,442,Wanderson,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+92084,443,Mário,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86227,444,Morato,São Paulo,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86323,445,Walterson,Atlético-GO,Atacante,0,Nulo,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,5,1,2.7,-0.9,0,0.6,0,,,,,,,
+92085,446,Giovanny ,Atlético-PR,Atacante,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86410,447,Victor Luis,Botafogo,Lateral,0,Contundido,0,1,0,0,5,0,3,6,0,0,0,0,0,0,0,6,6,4.1,8.2,5.4,6.9,0,,,,,,,
+92078,448,Wallace,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+92081,449,Richarlison ,Fluminense,Atacante,0,Nulo,0,3,6,2,10,0,0,7,1,0,0,0,1,0,2,7,9,1.6,8.3,1.1,18.4,0,,,,,,,
+92128,450,Luis Henrique,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86485,451,Keno,Palmeiras,Atacante,0.4,Provável,0,0,0,0,3,0,0,2,0,0,0,1,0,0,0,13,2,0,1.4,-0.9,1.6,0.4,,,,,,,
+86411,452,Breno Lopes,Atlético-GO,Lateral,5.7,Provável,0,2,2,0,1,0,1,1,0,0,0,0,0,0,0,3,0,0,0,0,0,5.7,,,,,,,
+92180,453,Jair Ventura,Botafogo,Técnico,1.33,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.35,8.36,6.95,4.07,1.33,,,,,,,
+86508,454,Jandrei,Chapecoense,Goleiro,-9,Provável,7,0,0,0,0,0,3,0,0,0,4,0,0,0,0,3,4,2.5,7.7,5,7.9,-9,,,,,,,
+92193,455,Ravanelli,Ponte Preta,Meia,0,Nulo,0,1,1,0,1,0,0,2,0,0,0,0,1,0,0,15,7,7.1,0.3,-0.3,0,0,,,,,,,
+92207,456,Caíque,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86486,457,Milton Mendes,Vasco,Técnico,3.8,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.11,5.46,4.92,0.33,3.8,,,,,,,
+86519,458,Everton Felipe,Sport,Meia,1.6,Nulo,0,0,0,0,3,0,0,3,0,0,0,0,0,0,4,19,2,1.6,0,-0.3,0,1.6,,,,,,,
+92191,459,Léo Jabá,Corinthians,Atacante,0,Nulo,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,1,1.2,0,0,0,0,,,,,,,
+92182,460,Juninho,Palmeiras,Zagueiro,1,Provável,0,1,0,0,5,0,0,6,0,0,0,0,0,0,0,7,1,0,-0.9,6.7,0,1,,,,,,,
+86686,461,Tchê Tchê,Palmeiras,Meia,1.2,Dúvida,0,1,0,0,6,0,0,5,0,0,0,0,1,0,3,9,5,3.2,0.5,5.6,3.5,1.2,,,,,,,
+92497,462,Douglas,Fluminense,Meia,0,Nulo,0,0,0,0,3,0,0,3,2,0,0,0,0,0,0,7,1,0,-2.5,0.5,0,0,,,,,,,
+82515,463,Reginaldo,Fluminense,Zagueiro,0,Provável,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,-1.9,0,,,,,,,
+92438,464,Matheus Phillipe,Fluminense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86713,465,Jonathan,Atlético-GO,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86757,466,Everton,Grêmio,Atacante,24.7,Dúvida,0,1,0,3,0,0,0,1,0,0,0,1,0,0,3,3,1,0,0,7.8,0,24.7,,,,,,,
+92574,467,Kaio,Grêmio,Meia,0,Nulo,0,1,0,0,3,0,0,1,0,0,0,0,0,0,1,2,3,0,0,2.8,0,0,,,,,,,
+86863,468,Luiz Otávio ,Chapecoense,Zagueiro,0.8,Provável,0,1,0,0,2,0,2,5,0,0,0,0,0,1,1,10,0,0.1,7.5,2.8,0,0.8,,,,,,,
+86740,469,João Lucas,Ponte Preta,Lateral,-0.3,Provável,0,0,0,0,1,0,2,7,0,0,0,0,1,0,1,21,1,11.4,-2.7,1.2,12,-0.3,,,,,,,
+92501,470,Lucas Lovat,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84848,471,Erik,Palmeiras,Atacante,0,Nulo,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,2.6,0,-0.3,0,,,,,,,
+86932,472,Gustavo,Bahia,Atacante,0,Nulo,0,4,1,1,2,0,0,2,1,0,0,0,0,0,1,2,3,1.2,10.4,0,1,0,,,,,,,
+80583,473,Lucas Lima,Santos,Meia,0,Nulo,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,3,-0.6,0,0,0,0,,,,,,,
+92614,474,Rafaelson,Vitória,Atacante,0,Nulo,0,3,0,0,5,0,0,1,0,0,0,0,0,0,1,5,2,1.6,0.7,-0.5,0,0,,,,,,,
+86759,475,Luan,Grêmio,Atacante,29.9,Provável,0,4,1,3,6,0,0,5,0,0,0,0,4,0,2,16,12,4.3,11.2,0,9.6,29.9,,,,,,,
+86935,476,Rodrigo,Sport,Meia,0,Nulo,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,2,1,-0.2,0,0,0,0,,,,,,,
+92630,477,Claudinho,Ponte Preta,Atacante,0,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.4,0,0,,,,,,,
+86765,478,Bruno Mota,Atlético-PR,Meia,0,Nulo,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,1,1.8,0,0,0,0,,,,,,,
+86760,479,Lucas Macanhan,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93151,480,Thiago Santos,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86972,481,Emerson Santos,Botafogo,Zagueiro,0,Nulo,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,7,1,-5.6,0,0,0,0,,,,,,,
+86970,482,Eduardo Gabriel,Atlético-GO,Zagueiro,5,Provável,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,,,,,
+86764,483,Sidcley,Atlético-PR,Lateral,0,Provável,0,1,2,0,4,0,0,4,0,0,0,0,1,0,0,14,7,9.4,-2.2,0,1.6,0,,,,,,,
+86766,484,Matheus Rossetto,Atlético-PR,Meia,0,Provável,0,0,0,0,2,0,0,3,0,0,0,0,1,0,1,6,5,-0.5,3.7,6.7,0.9,0,,,,,,,
+86974,485,Caio César,Avaí,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86973,486,Léo Gomes,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86874,487,Capa,Avaí,Lateral,1.3,Provável,0,3,2,0,3,0,2,8,0,0,0,0,1,0,1,30,13,7,2.6,0.9,14.9,1.3,,,,,,,
+86776,488,Jordi,Vasco,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87192,489,Zeca,Santos,Lateral,0,Contundido,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,0,6.2,-1.3,0,0,,,,,,,
+87008,490,Léo,Grêmio,Goleiro,0,Nulo,4,0,0,0,0,0,1,0,0,0,3,0,0,0,0,1,1,0,5,1.2,0,0,,,,,,,
+86859,491,José Welison,Vitória,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+86797,492,Raniel,Cruzeiro,Atacante,0,Contundido,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.5,-2,0,0,0,,,,,,,
+92981,493,Ronaldo,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87028,494,Beto da Silva,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2.2,0,0,,,,,,,
+92662,495,Denilson,Grêmio,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,,,,,,
+87158,496,Cícero,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93108,497,Mateus Vital,Vasco,Meia,3.3,Provável,0,2,0,0,3,0,0,6,0,0,0,0,1,0,5,5,8,5.1,3.5,10.5,0.2,3.3,,,,,,,
+86783,498,Henrique Gelain,Coritiba,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87098,499,Matheus Peixoto,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87743,500,Léo Santos,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87228,501,Guilherme Arana,Corinthians,Lateral,4.6,Provável,0,0,2,0,5,0,3,2,0,0,0,0,2,0,0,18,6,-0.3,4.6,10.4,3.2,4.6,,,,,,,
+87342,502,Kannemann,Grêmio,Zagueiro,-2.1,Provável,0,1,0,0,7,0,3,1,1,0,0,0,0,0,0,10,2,5.4,3.6,0,3,-2.1,,,,,,,
+87833,503,Luis Caicedo,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,4.7,1.4,0,,,,,,,
+93368,504,Lucas Veríssimo,Santos,Zagueiro,1.6,Provável,0,0,0,0,5,0,2,4,2,0,0,0,0,0,0,6,2,-2.5,6.2,5.1,-0.9,1.6,,,,,,,
+93146,505,Yan,Palmeiras,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87267,506,Marcão,Atlético-PR,Zagueiro,0,Nulo,0,0,0,1,3,0,0,0,0,0,0,0,0,1,2,1,0,3.2,0,0,0,0,,,,,,,
+87225,507,Pedro Henrique,Corinthians,Zagueiro,0.2,Nulo,0,0,0,0,1,0,3,4,0,0,0,0,0,0,0,10,1,3.4,5,3.6,6.6,0.2,,,,,,,
+93282,508,Fábio,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87211,509,Eduardo Baptista,Atlético-PR,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.91,0.31,0,,,,,,,
+87350,510,Buffarini,São Paulo,Lateral,0,Nulo,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,6.9,0,0,0,,,,,,,
+93153,511,Pachequinho,Coritiba,Técnico,5.17,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.23,1.33,4.11,5.77,5.17,,,,,,,
+93369,512,Rodrigo Becão,Bahia,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87393,513,Gabriel,Atlético-MG,Zagueiro,4.7,Nulo,0,0,0,1,4,0,2,6,0,0,0,0,0,0,0,9,3,0.3,9.9,1.6,8.5,4.7,,,,,,,
+88225,514,Daniel Guedes ,Santos,Lateral,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87398,515,Rodrigão,Atlético-MG,Zagueiro,3.4,Nulo,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3.4,,,,,,,
+93378,516,Augusto,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93414,517,Joel Carli,Botafogo,Zagueiro,-2.9,Provável,0,0,0,0,5,0,2,4,2,0,0,0,0,0,0,7,1,0,7.8,0,3.8,-2.9,,,,,,,
+93551,518,Igor,Atlético-GO,Meia,-3.7,Suspenso,0,2,2,0,18,0,0,8,3,0,0,0,0,0,2,16,9,4.7,-2.2,-0.1,2,-3.7,,,,,,,
+93739,519,Peu,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+87859,520,Zeballos,Chapecoense,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93785,521,Alan Cardoso,Vasco,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93746,522,Lenis,Sport,Atacante,0,Contundido,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,2,3,-0.1,0,0.7,0,0,,,,,,,
+87437,523,Caíque Sá,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,,,,,,
+87863,524,Arrascaeta,Cruzeiro,Meia,0,Contundido,0,3,0,0,4,0,0,5,0,0,0,0,0,0,3,13,8,7.1,3,1.6,0,0,,,,,,,
+93787,525,Andrey,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93789,526,Caio Monteiro,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84851,527,Lucas Cândido,Atlético-MG,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93788,528,Evander,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93869,529,Lucas França,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93797,530,Marcinho,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93846,531,Rafael Fachin,Coritiba,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94930,532,Lucas Paquetá,Flamengo,Meia,0,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-0.8,0,0,,,,,,,
+94004,533,Andrei Alba,Chapecoense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93986,534,Salazar,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87877,535,Sornoza,Fluminense,Meia,0,Contundido,0,1,0,1,1,0,0,2,1,0,0,0,0,0,1,5,2,9.8,0.3,0,0,0,,,,,,,
+80692,536,Luan,Palmeiras,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+93882,537,Cleiton,Atlético-MG,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89156,538,Nathan,Chapecoense,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87874,539,Orejuela,Fluminense,Meia,0,Nulo,0,0,0,0,2,0,0,8,0,0,0,0,0,0,0,6,8,4.9,3.1,3.3,3.5,0,,,,,,,
+87887,540,Balbuena,Corinthians,Zagueiro,0,Provável,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,6,2,-0.5,7.8,0,0,0,,,,,,,
+94003,541,Scalon,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87946,542,Todinho,Vitória,Atacante,2.2,Nulo,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,2.2,,,,,,,
+87864,543,Felipe Gedoz ,Atlético-PR,Meia,0,Nulo,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1.3,0,,,,,,,
+88136,544,Ivan,Ponte Preta,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+88030,545,Warian Santos ,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+88070,546,Cafu,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+88539,547,João Vitor ,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87999,548,Gustavo Scarpa,Fluminense,Meia,0,Provável,0,2,0,0,4,0,0,3,0,0,0,1,1,0,4,22,7,0.2,2.2,2.3,9.2,0,,,,,,,
+88651,549,Vinícius Tanque,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+88417,550,Iago,Coritiba,Atacante,0.4,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.4,,,,,,,
+88323,551,Ángel Romero,Corinthians,Atacante,0,Provável,0,0,3,1,3,0,0,7,0,0,0,0,0,0,3,4,15,6.5,5.1,7.9,6.7,0,,,,,,,
+94044,552,John Victor,Santos,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89150,553,Jean,Vasco,Meia,0.9,Provável,0,3,0,0,5,0,0,15,2,0,0,0,0,0,4,13,8,0.7,4.7,9.6,9.3,0.9,,,,,,,
+89227,554,Balbino,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+88667,555,Igor,Sport,Zagueiro,0,Nulo,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,2,2,6.2,0,0,0,0,,,,,,,
+94105,556,Devid,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94102,557,Matheus,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89190,558,Judivan ,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94045,559,Diego Gomes,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94067,560,Matheus Fernandes,Botafogo,Meia,5.8,Dúvida,0,1,0,0,2,0,0,3,0,0,0,0,0,0,0,1,2,0,0,0,-0.3,5.8,,,,,,,
+94144,561,Thallyson,Sport,Meia,0.3,Provável,0,0,0,0,3,0,0,3,2,0,0,0,0,0,0,5,5,0,0,-0.8,1.1,0.3,,,,,,,
+89273,562,João Pedro ,Chapecoense,Lateral,0,Contundido,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2.3,0,0,0,0,,,,,,,
+89253,563,Andreazzi,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89285,564,Matheus Sales,Bahia,Meia,0,Nulo,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,-1.8,0,0,0,,,,,,,
+94147,565,Lucas Ferreira,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94138,566,Felipe Vizeu,Flamengo,Atacante,0.7,Nulo,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.7,,,,,,,
+94154,567,Maycon,Corinthians,Meia,8.7,Provável,0,4,0,1,1,0,0,6,0,0,0,0,0,0,1,17,1,0.4,1.8,5.9,0.1,8.7,,,,,,,
+94207,568,Guilherme,Botafogo,Atacante,0,Nulo,0,0,0,0,2,0,0,2,0,0,0,0,1,0,3,6,1,-0.4,8.2,1.3,0,0,,,,,,,
+89341,569,Nicolas Careca,Grêmio,Atacante,0,Nulo,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,-0.5,0,0,,,,,,,
+89492,570,Saulo,Botafogo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94214,571,Léo Duarte,Flamengo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94286,572,Perotti,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89343,573,Júnior Tavares,São Paulo,Lateral,6,Provável,0,1,0,0,8,0,3,5,0,0,0,0,0,0,1,21,11,6,3.4,6.8,-1.8,6,,,,,,,
+89493,574,Igor Rabello,Botafogo,Zagueiro,5.9,Provável,0,1,0,0,7,0,3,13,1,0,0,0,0,0,1,6,3,6,3.9,10.6,6.6,5.9,,,,,,,
+89342,575,Caju,Santos,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89637,576,Thiago Maia,Santos,Meia,3.9,Provável,0,4,0,0,14,0,0,13,2,0,0,0,0,0,1,19,6,4.5,0.5,1.1,2.2,3.9,,,,,,,
+89676,577,Nickson,Cruzeiro,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89693,578,Leonan,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94249,579,Lourency,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94445,580,Juninho,Sport,Atacante,0,Nulo,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,7,2,-1.4,-0.5,0,0,0,,,,,,,
+94288,581,Lima,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94509,582,Raphael Veiga,Palmeiras,Meia,1.4,Nulo,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1.4,0,0,1.4,,,,,,,
+94583,583,Pedro,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89871,584,Pisculichi,Vitória,Meia,0,Nulo,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6,1,0,0.4,-1.5,0,0,,,,,,,
+89885,585,Leandrinho,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94765,586,Léo Principe,Corinthians,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89694,587,James Dean,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94894,588,Capixaba,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,,,,,,
+89839,589,Andres Chavez,São Paulo,Atacante,0,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4,0,0,,,,,,,
+89815,590,Gustavo Ferrareis,Bahia,Meia,0.4,Nulo,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,,,0,7.7,0.4,,,,,,,
+94885,591,Léo,Avaí,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94854,592,César,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89695,593,Iury,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0,0,0,,,,,,,
+97769,594,Yuri,Ponte Preta,Atacante,0,Nulo,0,1,0,0,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0.7,0,0,0,,,,,,,
+94336,595,Mateus Norton,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89924,596,Bruno Ramires,Vitória,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89696,597,Romulo,Avaí,Atacante,0.2,Provável,0,5,1,1,5,0,0,4,0,0,0,0,0,0,1,15,13,6.4,0.1,0.8,10.8,0.2,,,,,,,
+94931,598,Lucas Fernandes,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97768,599,Reynaldo,Ponte Preta,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99670,600,Arthur,Cruzeiro,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+97863,601,Jhemerson,Vitória,Meia,0,Nulo,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3.1,0,0,0,,,,,,,
+97856,602,Nonoca,Cruzeiro,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97680,603,Yan,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97877,604,Patrick Correia,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97878,605,Jacy,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97879,606,Matheus Anjos,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97771,607,Thiaguinho,Ponte Preta,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+49673,608,Júlio César,Fluminense,Goleiro,0,Provável,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,-2.4,0,,,,,,,
+42499,609,Bruno,São Paulo,Lateral,1.7,Provável,0,0,0,0,2,0,1,1,1,0,0,0,0,0,0,10,2,0,0,0,0,1.7,,,,,,,
+97902,610,Rafael,Flamengo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97880,611,Murillo,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+42500,612,Fagner,Corinthians,Lateral,0,Nulo,0,0,0,0,5,0,3,4,1,0,0,0,0,0,0,16,5,0,4.9,5.1,5,0,,,,,,,
+98034,613,Maílson,Sport,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95263,614,Luquinhas,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+49674,615,Fabrício,Cruzeiro,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50294,616,Guilherme,Atlético-PR,Meia,0,Contundido,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,8,4,8,-0.9,0,0,0,,,,,,,
+98035,617,Caio,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+50284,618,Wilson,Coritiba,Goleiro,13.7,Provável,2,0,0,0,0,0,3,0,0,0,7,0,0,0,0,5,2,4,0.7,5.7,7.4,13.7,,,,,,,
+50301,619,Everton,Flamengo,Meia,4.7,Provável,0,2,1,1,3,0,0,8,1,0,0,0,1,0,2,12,6,7.2,10.7,0,2.8,4.7,,,,,,,
+98056,620,Luiz Felipe,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98401,621,Patrick Luan,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98221,622,Cedric,Vitória,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98352,623,Bruno Guimarães,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98184,624,Rodrigo Pelezinho,Chapecoense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,,,,,,,
+98315,625,Evanderson,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98402,626,Wendel,Fluminense,Meia,0,Provável,0,2,0,0,6,0,0,5,0,0,0,0,1,0,2,13,13,9.1,6.1,0.1,1.2,0,,,,,,,
+98333,627,Gabriel Batista,Flamengo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98515,628,Lucas Silva,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98516,629,Loran ,Flamengo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98774,630,Flávio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98874,631,Marcelo,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98888,632,Cláudio Vitor,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98910,633,João Pedro,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89898,634,Róger Guedes,Palmeiras,Atacante,-0.5,Dúvida,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,7,7,-0.5,0.6,0.2,0.3,-0.5,,,,,,,
+98945,635,Derlan,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98517,636,Jean Lucas,Flamengo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99032,637,Lourenço,Avaí,Atacante,2,Dúvida,0,3,0,0,4,0,0,1,2,0,0,0,0,0,1,7,5,0,0.4,-0.4,-2.8,2,,,,,,,
+99021,638,Riuler,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+98706,639,Pedrinho,Corinthians,Atacante,1,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,,,,,,
+98952,640,Léo Natel,São Paulo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.5,0,,,,,,,
+98766,641,Emanuel,Atlético-MG,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99035,642,Pedro Vitor,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99034,643,Elias,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99254,644,Dayvid,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99033,645,João Victor,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99255,646,Pedro Henryque,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99356,647,Vinícius,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99258,648,Matheus Bezerra,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99256,649,Alesandro,Sport,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99353,650,Lucas Índio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99257,651,João Erick,Sport,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99283,652,Henrique,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99388,653,Lucas Vinícius,Atlético-GO,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99379,654,Borges,Atlético-GO,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99411,655,Alexsander,Atlético-PR,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99616,656,Felipe Saraiva,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,,,,,,
+99430,657,Diego,Botafogo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99424,658,Éder Militão,São Paulo,Meia,-2.1,Provável,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,4,1,-0.1,0,0,0,-2.1,,,,,,,
+99425,659,Felipe,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99460,660,Caio,Atlético-PR,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99474,661,Wenderson,Botafogo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99461,662,Daniel,Atlético-PR,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99550,663,Fernando,Botafogo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99588,664,Paulo Vitor,Vasco,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99535,665,Vinicius Junior,Flamengo,Atacante,-0.2,Provável,0,1,0,0,2,0,0,0,0,0,0,1,0,0,5,6,2,-0.6,1,1.7,5.5,-0.2,,,,,,,
+99625,666,Conrado,Grêmio,Meia,0,Nulo,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,3,2,,0,1.5,0,0,,,,,,,
+99615,667,Bruno Cosendey,Vasco,Meia,0,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1.7,0,0,0,,,,,,,
+95332,668,Marcinho,São Paulo,Atacante,1,Provável,0,2,0,0,8,0,0,2,1,0,0,0,2,0,2,16,5,0.4,5.9,5.4,-4.2,1,,,,,,,
+99669,669,Elano,Santos,Técnico,2.56,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,2.56,,,,,,,
+95539,670,Fabrício,Sport,Meia,0,Nulo,0,2,1,0,2,0,0,1,1,0,0,0,1,0,2,16,2,0,-2.9,5.4,0.3,0,,,,,,,
+95820,671,Léo Santos,Corinthians,Zagueiro,0,Nulo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,,,,,,,
+95315,672,Índio,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99628,673,Esperon,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,,,,,,
+95335,674,Matheus Jesus,Ponte Preta,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+99661,675,Igor Cássio,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+95483,676,Luiz Felipe,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90587,677,Cascardo,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95543,678,Renan Gorne,Botafogo,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90569,679,Yuri,Santos,Meia,-2,Nulo,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,-1.1,0,0,0,-2,,,,,,,
+95651,680,Filipinho,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95638,681,Marcelo,Botafogo,Zagueiro,0,Nulo,0,1,0,0,2,0,1,1,1,0,0,0,0,0,1,5,1,-1.6,0,6,0,0,,,,,,,
+90715,682,Luiz Fernando ,Atlético-GO,Meia,7.4,Nulo,0,1,3,1,5,0,0,1,0,0,0,0,0,0,0,7,1,0,0,0.8,-3.4,7.4,,,,,,,
+95660,683,Araruna,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95738,684,Trauco,Flamengo,Lateral,0,Nulo,0,1,0,0,4,0,2,1,1,0,0,0,0,0,0,13,2,-4.2,5,0,4.7,0,,,,,,,
+95662,685,Lucas Kal,São Paulo,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+95770,686,Vitinho,Palmeiras,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87470,687,Thaciano,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90651,688,Rodrigão,Santos,Atacante,-1.5,Nulo,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1.5,,,,,,,
+90634,689,Lucas Mineiro,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95780,690,Zé Ricardo,Flamengo,Técnico,1.69,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.45,6.36,2.83,4.39,1.69,,,,,,,
+90768,691,Fabrício Bruno,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90843,692,Elias,Chapecoense,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87486,693,Matheus Reis,Bahia,Lateral,2.7,Provável,0,0,0,0,4,0,2,1,1,0,0,0,0,0,0,15,7,-0.3,0,-1.9,6.2,2.7,,,,,,,
+99629,694,Jadson,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,,,,,,,
+95798,695,Gustavo Bochecha,Botafogo,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95794,696,Nathan,Atlético-MG,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95843,697,Sander,Sport,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+90899,698,Lucas Fernandes,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95837,699,Fabián Noguera,Santos,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87552,700,Vitor Bueno,Santos,Meia,-2.6,Provável,0,2,0,0,3,0,0,6,2,0,0,0,0,0,0,15,7,2.1,0,4.7,0.9,-2.6,,,,,,,
+95936,701,Daniel Fuzato,Palmeiras,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95876,702,Douglas,Vasco,Meia,5.8,Provável,0,8,1,0,3,0,0,10,1,0,0,1,0,0,4,24,10,9.5,7.4,2.4,-1.2,5.8,,,,,,,
+95978,703,Ty Sandows,Grêmio,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96055,704,Yan,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97653,705,Murilo,Cruzeiro,Zagueiro,1.1,Dúvida,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1.1,,,,,,,
+96089,706,Machado,Grêmio,Meia,0,Nulo,0,0,0,0,2,0,0,7,0,0,0,0,0,0,0,4,0,0,0,9.7,0,0,,,,,,,
+96411,707,Cassiano,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96340,708,Lima,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90892,709,Wallace,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96433,710,Ralph,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,0,0,0,0,,,,,,,
+96591,711,Renan Lodi,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96464,712,Mauricio,Avaí,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96524,713,Victor Lindenberg,Botafogo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96328,714,Matheus Oliveira,Santos,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96831,715,Carlinhos,Corinthians,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96832,716,Rodrigo Figueiredo,Corinthians,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90933,717,Jean,Bahia,Goleiro,7.7,Provável,5,0,0,0,0,0,2,0,0,0,11,0,0,0,0,7,0,1.7,10.7,0.7,10.1,7.7,,,,,,,
+96804,718,Vitor,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96966,719,Arthur Gomes,Santos,Atacante,2.9,Nulo,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,2.9,,,,,,,
+95849,720,Felipe,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91001,721,Evandro,Sport,Lateral,0,Nulo,0,0,0,0,9,0,0,3,0,0,0,0,0,0,1,12,2,-0.5,-1.8,0,1.3,0,,,,,,,
+96870,722,Emerson,Ponte Preta,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91003,723,Alison,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91101,724,Ronaldo,Vitória,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96965,725,Léo Lopes,Avaí,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+96349,726,Geovane,Coritiba,Zagueiro,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+91094,727,Ábila,Cruzeiro,Atacante,-2.3,Provável,0,2,3,1,2,0,0,2,1,0,0,0,1,0,2,6,7,11,1.6,5,1.7,-2.3,,,,,,,
+97228,728,Santarém,Avaí,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97138,729,Dida,Grêmio,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+39152,730,Jonas,Botafogo,Lateral,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97349,731,Daniel,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+87742,732,Neto Moura,Sport,Meia,0,Nulo,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,5,2,-2.4,0.6,0,0,0,,,,,,,
+97352,733,Pachu,Botafogo,Atacante,0.7,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,,,,,,,
+97315,734,Mantuan,Corinthians,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97341,735,Rogério Ceni,São Paulo,Técnico,6.71,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.45,5.03,6.26,0.14,6.71,,,,,,,
+39572,736,Renato,Fluminense,Lateral,0,Contundido,0,4,0,0,2,0,0,1,1,0,0,0,0,0,1,5,4,0,0.3,0,2.7,0,,,,,,,
+39850,737,Vagner Mancini,Chapecoense,Técnico,1.91,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2,3.98,6.09,5.28,1.91,,,,,,,
+41218,738,Magrão,Sport,Goleiro,20,Provável,9,0,0,0,0,0,1,1,0,0,10,0,0,0,0,0,0,-8,7,1.7,-2,20,,,,,,,
+41327,739,Vanderlei Luxemburgo,Sport,Técnico,6.75,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0.27,6.75,,,,,,,
+41363,740,Alexandre Gallo,Vitória,Técnico,1.64,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,1.64,,,,,,,
+40179,741,Kleber,Coritiba,Atacante,1,Provável,0,5,3,0,10,0,0,3,0,0,0,0,1,0,9,16,14,8.9,5.6,1.4,1.4,1,,,,,,,
+97520,742,Shaylon,São Paulo,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97452,743,Marcos Calazans,Fluminense,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97444,744,Julio Rusch,Coritiba,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97502,745,Filigrana,Coritiba,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97443,746,Romercio,Coritiba,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+41929,747,Renato Gaúcho,Grêmio,Técnico,8.1,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.13,5.05,5.3,6.12,8.1,,,,,,,
+42145,748,Egídio,Palmeiras,Lateral,0.4,Provável,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,8,1,0,0,0,6.8,0.4,,,,,,,
+42140,749,Felipe Santana,Atlético-MG,Zagueiro,0,Provável,0,2,1,0,5,0,1,7,0,0,0,0,1,0,0,5,3,1.1,2.6,8.5,8.1,0,,,,,,,
+42116,750,Willian,Palmeiras,Atacante,1.2,Provável,0,0,2,0,11,0,0,5,1,1,0,0,0,0,1,9,5,1.7,-2.7,1.1,-4,1.2,,,,,,,
+40006,751,Abel Braga,Fluminense,Técnico,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.96,2.04,1.88,3.51,0,,,,,,,
+97528,752,Frazan,Fluminense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97527,753,Matheus Alessandro,Fluminense,Atacante,0,Dúvida,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0.8,0,,,,,,,
+42213,754,Fernando Bob,Ponte Preta,Meia,0,Contundido,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,3,1,0,8.1,0,0,0,,,,,,,
+97532,755,Jean Pineda,Vitória,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,-0.3,0,-0.1,0,0,,,,,,,
+97536,756,Bryan,Chapecoense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97445,757,Matheus Iacovelli,Palmeiras,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0,0,0,,,,,,,
+97535,758,Hiago,Chapecoense,Zagueiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+42222,759,Osvaldo,Sport,Atacante,7.8,Provável,0,2,0,1,4,0,0,0,1,0,0,0,1,0,2,16,7,-0.1,-0.3,6.6,-2.9,7.8,,,,,,,
+42232,760,Amaral,Chapecoense,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+97546,761,Marco Túlio,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+42330,762,Felipe Garcia,Atlético-GO,Goleiro,7.7,Provável,7,0,0,0,0,0,1,0,0,0,12,0,0,0,0,3,0,0,5.7,9.7,3,7.7,,,,,,,
+42234,763,Cássio,Corinthians,Goleiro,1.9,Provável,3,0,0,0,0,0,3,0,0,0,3,0,0,0,0,3,1,-2,5,7.7,5,1.9,,,,,,,
+97645,764,Thiago Couto,São Paulo,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+89930,765,Andrigo,Atlético-GO,Meia,7.1,Provável,0,2,0,0,3,0,0,3,0,0,0,0,1,0,5,14,1,0,0.8,1.5,1.9,7.1,,,,,,,
+97538,766,Marcio,Coritiba,Zagueiro,8.4,Provável,0,0,1,1,4,0,3,5,1,0,0,0,1,0,0,10,4,0,1.1,5.8,15.7,8.4,,,,,,,
+42411,767,Cuca,Palmeiras,Técnico,0.75,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.34,1.73,1.1,3.8,0.75,,,,,,,
+89976,768,Geferson,Vitória,Lateral,0,Nulo,0,0,2,0,1,0,1,9,0,0,0,0,0,0,0,7,2,9.4,5.7,2.6,0,0,,,,,,,
+94962,769,Lucão,Cruzeiro,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+80853,770,Pedro Geromel,Grêmio,Zagueiro,0,Provável,0,1,0,0,1,0,3,4,0,0,0,0,0,0,1,8,2,4.9,8.2,0,8.5,0,,,,,,,
+90031,771,Mendoza,Bahia,Atacante,0.4,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.4,,,,,,,
+94966,772,Deijair ,Bahia,Goleiro,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90061,773,Bruno Pacheco,Atlético-GO,Lateral,3.7,Provável,0,0,0,0,7,0,1,5,1,0,0,0,1,0,0,15,9,5.9,4.1,1.9,-2.6,3.7,,,,,,,
+84855,774,Raul Prata,Sport,Lateral,4.1,Nulo,0,1,0,0,2,0,1,2,1,0,0,0,0,0,0,8,1,0,0.1,0,0,4.1,,,,,,,
+90285,775,Bruno Henrique,Santos,Atacante,0,Provável,0,2,2,0,9,0,0,2,1,0,0,1,2,1,3,18,9,9.3,5.9,-0.7,-6.6,0,,,,,,,
+94968,776,Juninho Capixaba,Bahia,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+84861,777,Alex Silva,Atlético-MG,Lateral,12.5,Provável,0,0,0,0,3,0,2,3,1,0,0,0,1,0,0,7,4,0,0,0,4,12.5,,,,,,,
+94971,778,Luís Fernando,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90290,779,Jailson,Grêmio,Meia,0,Nulo,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,6.4,0,0,,,,,,,
+80944,780,Marlone,Atlético-MG,Meia,0.2,Nulo,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0.2,,,,,,,
+94978,781,Kaynan,Bahia,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90303,782,Lincoln,Grêmio,Meia,0,Contundido,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94975,783,Marco Antônio,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95023,784,Luis Guilherme,Atlético-MG,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90366,785,Luiz Fernando ,Fluminense,Meia,0,Provável,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95022,786,Thalis ,Atlético-MG,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+94985,787,Dodô,Coritiba,Lateral,2.7,Provável,0,2,0,0,9,0,3,10,1,0,0,0,0,0,1,21,6,4.4,1.2,8,8.3,2.7,,,,,,,
+90399,788,Fernandes,Botafogo,Meia,-0.3,Nulo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,-0.3,,,,,,,
+90302,789,Pedro Rocha,Grêmio,Atacante,7.4,Provável,0,2,1,0,4,0,0,5,0,0,0,0,1,0,3,4,7,3.6,1.4,0,5.3,7.4,,,,,,,
+84890,790,Euller ,Vitória,Lateral,0,Nulo,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,4.5,0.2,0,0,0,,,,,,,
+81150,791,Mayke,Palmeiras,Lateral,1.8,Dúvida,0,0,1,0,7,0,1,5,0,0,0,0,0,0,0,7,3,0,0,0.5,6.6,1.8,,,,,,,
+90444,792,Moisés,Corinthians,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90406,793,Crysan,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+85121,794,Robert ,Fluminense,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,,,,,,,
+90532,795,Arthur,Grêmio,Meia,9.7,Provável,0,0,0,0,4,0,0,11,1,0,0,0,0,0,0,6,6,6.8,-0.5,0,-0.1,9.7,,,,,,,
+90531,796,Raul,Grêmio,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,,,,,,,
+95054,797,Júnior Ramos,Bahia,Meia,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90566,798,Rafael Longuine,Santos,Meia,0,Nulo,0,0,0,0,4,0,0,1,1,0,0,0,0,0,1,5,0,0,-2,0,-0.8,0,,,,,,,
+84893,799,Henrique,Vasco,Lateral,8.2,Provável,0,1,0,0,6,0,0,8,0,0,0,0,1,0,1,16,12,1.2,6.2,-0.2,3.1,8.2,,,,,,,
+95058,800,Moraes,Flamengo,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95126,801,Yago,Atlético-PR,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+95127,802,Nicolas,Atlético-PR,Lateral,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+90309,803,David,Vitória,Atacante,4.6,Provável,0,5,3,0,3,0,0,3,1,0,0,0,0,0,2,13,4,-0.7,1.8,-0.2,-1.8,4.6,,,,,,,
+90535,804,Alex,Cruzeiro,Meia,0,Contundido,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,2,0,4.2,0,0,0,,,,,,,
+95180,805,Índio,Sport,Atacante,0,Nulo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
