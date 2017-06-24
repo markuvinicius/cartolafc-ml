@@ -95,7 +95,8 @@ def get_atletas(api):
     
     rows = ["id","apelido","clube","posicao","ultima_pontuacao",
             "status","FD","G","CA","FC","FS","DD","GS","PP","SG","CV","FT","A","PE",
-            "RB","DP","I","FF","R1","R2","R3","R4","R5","R6","R7","R8","R9","R10","R11","R12"]
+            "RB","DP","I","FF","R1","R2","R3","R4","R5","R6","R7","R8","R9","R10","R11","R12",
+            "P1","P2","P3","P4","P5","P6","P7","P8","P9","P10","P11","P12"]
     
     csvWriter.writerow(rows)
     
@@ -118,6 +119,9 @@ def get_atletas(api):
         
         for l in hist_pont:
             row.append(l.pontos)
+
+        for l in hist_pont:
+            row.append(l.preco)
             
         csvWriter.writerow(row)       
         
