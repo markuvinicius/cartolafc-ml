@@ -134,7 +134,7 @@ def main():
     global api, cmax, locords
 
     # OAuth key file
-    authfile = './auth.k'
+    authfile = '../auth.k'
 
     cartolaFC_parser()
     api = api_oauth(authfile)
